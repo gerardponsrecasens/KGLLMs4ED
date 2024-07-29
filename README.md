@@ -18,6 +18,6 @@ python3 pipeline_yago.py
 
 
 3. **Evaluate results**: The script *evaluation.py* will generate the F1-score, the Gold-F1 and the % of Gold-F1 score, all inKB.
-![alt text](image-1.png)
+![alt text](image.png)
 
 
