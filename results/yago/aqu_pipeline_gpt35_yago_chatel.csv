@@ -1,0 +1,714 @@
+id,candidate_length,in_candidates,response,answer
+0,1,True,Brain tumor,Brain tumor
+1,5,True,Breast cancer,Breast cancer
+2,1,True,Bleeding,Bleeding
+3,7,True,Bangkok,Bangkok
+4,1,True,Radiosurgery,Radiosurgery
+5,10,True,notInKB,notInKB
+6,3,True,Cancer,Cancer
+7,6,True,notInKB,notInKB
+8,6,True,notInKB,notInKB
+9,1,True,notInKB,notInKB
+10,10,True,notInKB,notInKB
+11,1,True,Linear particle accelerator,Linear particle accelerator
+12,6,True,notInKB,notInKB
+13,1,True,notInKB,notInKB
+14,3,True,notInKB,notInKB
+15,2,True,notInKB,notInKB
+16,8,True,Malaysia,Malaysia
+20,10,True,notInKB,notInKB
+21,5,True,Implementation,Implementation
+22,8,True,Rural area,Rural area
+23,5,True,Resource allocation,Resource allocation
+24,4,True,Ministry (government department),Ministry (government department)
+25,10,True,notInKB,notInKB
+27,4,True,notInKB,notInKB
+28,1,True,Lukut,Lukut
+29,1,True,Negeri Sembilan,Negeri Sembilan
+30,1,True,notInKB,notInKB
+31,6,True,Research,Research
+32,1,True,Mechai Viravaidya,Mechai Viravaidya
+34,1,True,notInKB,notInKB
+35,10,True,notInKB,notInKB
+37,5,True,Bank,Bank
+38,5,True,Financial services,Finance
+39,1,True,Bank of Thailand,Bank of Thailand
+41,3,True,notInKB,notInKB
+42,10,True,notInKB,notInKB
+43,6,True,notInKB,notInKB
+44,7,True,Russia,Russians
+45,6,True,Russian mafia,Organized crime
+46,1,True,Gazprom Neft,Gazprom Neft
+47,4,True,Kemerovo Oblast,Kemerovo
+48,10,True,notInKB,notInKB
+49,7,True,Russia,Russia
+50,8,True,Magnate,Business magnate
+51,2,True,Boris Berezovsky (businessman),Boris Berezovsky (businessman)
+52,3,True,Petroleum,Oil
+54,2,True,Coal mining,Coal mining
+55,1,True,Contract killing,Contract killing
+56,6,True,notInKB,notInKB
+57,1,True,Leninsk-Kuznetsky (city),Leninsk-Kuznetsky (city)
+59,4,True,Tax evasion,Tax evasion
+60,1,True,Embezzlement,Embezzlement
+61,1,True,Gennady Konyakhin,Gennady Konyakhin
+64,4,True,Antiquities trade,Art theft
+65,7,True,Budapest,Budapest
+66,1,True,Smuggling,Smuggling
+67,5,True,Interpol,Interpol
+68,2,True,Interpol,United Nations Police
+69,4,True,notInKB,notInKB
+70,9,True,France,France
+71,5,True,Hungarians,Hungarians
+72,6,True,Communist state,Communism
+73,2,True,Hungarian forint,Hungarian forint
+74,1,True,Database,Database
+76,1,True,Art dealer,Art dealer
+77,1,True,Auction,Auction
+78,10,True,notInKB,notInKB
+80,1,True,Financial institution,Financial institution
+81,1,True,Thai baht,Thai baht
+82,1,True,Liquidation,Liquidation
+83,2,True,International Monetary Fund,International Monetary Fund
+84,1,True,notInKB,notInKB
+85,1,True,Bangkok Post,Bangkok Post
+86,1,True,Chuan Leekpai,Chuan Leekpai
+88,5,True,Queen Sirikit National Convention Center,Queen Sirikit National Convention Center
+89,3,True,English defamation law,Defamation
+90,6,True,Tort,Damages
+91,1,True,Brooke Shields,Brooke Shields
+93,10,True,Cannes Film Festival,Cannes Film Festival
+94,2,True,Daily Mail,The Mail on Sunday
+96,1,True,National Police (France),National Police (France)
+97,1,True,DMG Media,DMG Media
+98,7,True,notInKB,notInKB
+99,6,True,Substance abuse,Substance abuse
+100,7,True,Iran,Iran
+103,1,True,notInKB,notInKB
+104,1,True,Muhammad Saeed al-Sahhaf,Muhammad Saeed al-Sahhaf
+105,1,True,Missing in action,Missing in action
+106,3,True,notInKB,notInKB
+107,2,True,International Committee of the Red Cross,International Committee of the Red Cross
+108,8,True,Baghdad,Baghdad
+109,10,True,notInKB,notInKB
+110,8,True,Iraq,Iraq
+111,7,True,Iran,Iran
+112,3,True,Third Geneva Convention,Prisoner of war
+113,8,True,Baghdad,Baghdad
+114,6,True,Delegation,Delegation
+115,1,True,notInKB,notInKB
+116,6,True,Tehran,Tehran
+117,3,True,Detention (imprisonment),Detention (imprisonment)
+118,6,True,Repatriation and reburial of human remains,Repatriation
+119,2,True,International Committee of the Red Cross,International Committee of the Red Cross
+120,2,True,notInKB,notInKB
+121,8,True,Iraq,Iraq
+122,7,True,Iran,Iran
+123,3,True,Third Geneva Convention,Prisoner of war
+124,8,True,Baghdad,Baghdad
+125,1,True,notInKB,notInKB
+126,6,True,Tehran,Tehran
+127,6,True,Repatriation,Repatriation
+128,2,True,International Committee of the Red Cross,International Committee of the Red Cross
+129,2,True,notInKB,notInKB
+130,1,True,Air Afrique,Air Afrique
+131,9,True,Boeing,Boeing
+132,8,True,Murtala Muhammed International Airport,Murtala Muhammed International Airport
+133,9,True,Lagos,Lagos
+135,3,True,notInKB,notInKB
+137,1,True,Cameroon Airlines,Cameroon Airlines
+138,3,True,notInKB,notInKB
+139,10,True,Nigeria,Nigeria
+140,1,True,Violent crime,Violent crime
+141,6,True,La India,India
+144,9,True,Politics (journal),Politics
+146,1,True,Prasar Bharati,Prasar Bharati
+147,10,True,notInKB,notInKB
+148,1,True,University of Calcutta,University of Calcutta
+149,8,True,"Merton College, Oxford","Merton College, Oxford"
+150,5,True,Open-source journalism,Journalism
+151,4,True,Communist Party of India,Communist Party of India
+152,4,True,Indian National Congress,Indira Gandhi
+153,10,True,notInKB,notInKB
+155,1,True,notInKB,notInKB
+156,10,True,notInKB,notInKB
+157,10,True,notInKB,notInKB
+158,7,True,Vietnam,Vietnam
+159,1,True,Self-criticism,Self-criticism
+161,1,True,notInKB,notInKB
+162,1,True,notInKB,notInKB
+166,2,True,Hydroelectricity,Hydroelectricity
+167,1,True,notInKB,notInKB
+169,4,True,German railway,Train
+170,9,True,Germany,Germany
+171,4,True,Lufthansa,Lufthansa
+172,1,True,Airline hub,Airline hub
+173,7,True,Frankfurt,Frankfurt
+174,9,True,Köln Hauptbahnhof,Cologne
+175,1,True,notInKB,notInKB
+176,2,True,DB Netz,Deutsche Bahn
+177,9,True,Bonn,Bonn
+178,3,True,Würzburg,Würzburg
+179,9,True,United Airlines,United Airlines
+180,8,True,Scandinavian Airlines,Scandinavian Airlines
+181,5,True,Saddam Hussein,Saddam Hussein
+182,9,True,United States,United States
+183,8,True,Iraq War,Iraq
+184,2,True,notInKB,notInKB
+185,6,True,United Nations,United Nations
+186,10,True,notInKB,notInKB
+187,3,True,notInKB,notInKB
+188,1,True,Ruhollah Khomeini,Ruhollah Khomeini
+190,6,True,Sanctions against Iraq,International sanctions
+191,6,True,Kuwait,Kuwait
+193,8,True,Baghdad,Baghdad
+194,5,True,Patriotism,Patriotism
+196,10,True,notInKB,notInKB
+197,9,True,Sodium nitrate,Sodium
+198,5,True,notInKB,notInKB
+200,3,True,notInKB,notInKB
+201,10,True,notInKB,notInKB
+202,8,True,Greater Tokyo Area,Tokyo
+204,2,True,Hypoesthesia,Paresthesia
+206,10,True,notInKB,notInKB
+207,5,True,Arsenic poisoning,Arsenic
+208,3,True,Copycat crime,Copycat crime
+209,1,True,Sodium azide,Sodium azide
+210,1,True,Airbag,Airbag
+211,1,True,Liver disease,Liver disease
+212,1,True,notInKB,notInKB
+213,5,True,notInKB,notInKB
+214,1,True,Nerve agent,Nerve agent
+215,1,True,Aum Shinrikyo,Aum Shinrikyo
+216,10,True,notInKB,notInKB
+217,1,True,Auckland Art Gallery,Auckland Art Gallery
+218,5,True,James Tissot,James Tissot
+220,4,True,Auckland,Auckland
+221,3,True,notInKB,notInKB
+223,9,True,"Albert Park, Auckland","Albert Park, Auckland"
+224,10,True,notInKB,notInKB
+225,4,True,Israel,Israel
+227,4,True,Islamic terrorism,Islamic terrorism
+228,9,True,United States,United States
+229,1,True,Benjamin Netanyahu,Benjamin Netanyahu
+230,1,True,notInKB,notInKB
+232,3,True,notInKB,notInKB
+234,6,True,Sudan,Sudan
+235,7,True,Afghanistan,Afghanistan
+236,2,True,Osama bin Laden,Osama bin Laden
+237,10,True,notInKB,notInKB
+238,3,True,Diplomatic mission,Diplomatic mission
+239,10,True,notInKB,notInKB
+240,10,True,notInKB,notInKB
+242,10,True,notInKB,notInKB
+243,2,True,University of Connecticut,University of Connecticut
+244,1,True,Security guard,Security guard
+245,4,True,University of Connecticut,Academic administration
+246,3,True,Tour operator,Tour operator
+247,1,True,Art theft,Art theft
+248,7,True,Austria,Austria
+249,10,True,notInKB,notInKB
+250,1,True,Madeleine Albright,Madeleine Albright
+252,10,True,notInKB,notInKB
+253,1,True,Thomas Klestil,Thomas Klestil
+254,10,True,Moscow,Moscow
+255,9,True,United States,United States
+256,1,True,Viktor Klima,Viktor Klima
+257,1,True,Wolfgang Schüssel,Wolfgang Schüssel
+258,2,True,World Jewish Congress,World Jewish Congress
+259,1,True,Association of Art Museum Directors,Association of Art Museum Directors
+260,8,True,Adolf Hitler,Adolf Hitler
+261,9,True,Nazi Germany,Germany
+263,10,True,notInKB,notInKB
+264,1,True,Nerve agent,Nerve agent
+265,8,True,Greater Tokyo Area,Tokyo
+266,2,True,Shoko Asahara,Shoko Asahara
+267,1,True,Aum Shinrikyo,Aum Shinrikyo
+268,1,True,notInKB,notInKB
+269,9,True,notInKB,notInKB
+270,7,True,United States Department of Defense,Defense (legal)
+271,1,True,Tokyo District Court,Tokyo District Court
+272,5,True,Prosecutor,Prosecutor
+274,5,True,Impressionism,Impressionism
+275,3,True,Robbery,Robbery
+276,6,True,Claude Monet,Claude Monet
+277,9,True,Nice,Nice
+278,1,True,Alfred Sisley,Alfred Sisley
+279,10,True,notInKB,notInKB
+280,1,True,Saint-Laurent-du-Var,Saint-Laurent-du-Var
+281,2,True,Trade fair,Trade fair
+282,8,True,Iraq,Iraq
+283,3,True,Iran,Iran
+284,6,True,Delegation,Delegation
+285,1,True,notInKB,notInKB
+286,8,True,Mohammad Shariatmadari,Mohammad Shariatmadari
+287,6,True,Commerce,Commerce
+288,6,True,Tehran,Tehran
+289,4,True,notInKB,notInKB
+290,6,True,United Nations,United Nations
+291,3,True,Prisoner of war,Prisoner of war
+292,8,True,Iraq,Baghdad
+293,3,True,State-sponsored terrorism,Sabotage
+294,1,True,Taha Yassin Ramadan,Taha Yassin Ramadan
+295,2,True,Gulf War,Gulf War
+296,1,True,Organisation of Islamic Cooperation,Organisation of Islamic Cooperation
+297,5,True,Hungary,Hungary
+298,1,True,notInKB,notInKB
+299,7,True,Communist state,Communism
+300,3,True,Magyar Távirati Iroda,Magyar Távirati Iroda
+302,2,True,Hungarian forint,Hungarian forint
+303,4,True,Transfer payment,Welfare
+305,7,True,Holy See,Holy See
+306,8,True,Persian Gulf,Persian Gulf
+307,3,True,William Cohen,William Cohen
+308,9,True,United States,United States
+309,3,True,notInKB,notInKB
+310,7,True,Iran,Iran
+311,8,True,Iraq,Iraq
+312,9,True,Bahrain,Bahrain
+313,8,True,Qatar,Qatar
+314,9,True,United Arab Emirates,United Arab Emirates
+315,9,True,Oman,Oman
+316,10,True,notInKB,notInKB
+317,6,True,United Nations,United Nations
+318,6,True,Sanctions against Iraq,International sanctions
+319,2,True,Alan Shepard,Alan Shepard
+320,8,True,John Glenn,John Glenn
+321,10,True,notInKB,notInKB
+322,1,True,Gus Grissom,Gus Grissom
+323,10,True,notInKB,notInKB
+324,1,True,Roger B. Chaffee,Roger B. Chaffee
+325,2,True,Apollo 1,Apollo 1
+327,1,True,Launch pad,Launch pad
+328,4,True,Apollo program,Apollo 11
+329,3,True,Neil Armstrong,Neil Armstrong
+330,2,True,Buzz Aldrin,Buzz Aldrin
+331,7,True,Moon,Moon
+332,4,True,Soyuz programme,Soyuz (spacecraft)
+333,10,True,notInKB,notInKB
+334,8,True,Space Shuttle program,Space Shuttle
+335,1,True,Sally Ride,Sally Ride
+336,10,True,notInKB,notInKB
+337,1,True,Hubble Space Telescope,Hubble Space Telescope
+338,1,True,Norman Thagard,Norman Thagard
+340,7,True,STS Mir,Mir
+341,10,True,notInKB,notInKB
+342,1,True,Shannon Lucid,Shannon Lucid
+343,1,True,Story Musgrave,Story Musgrave
+344,10,True,notInKB,notInKB
+345,10,True,notInKB,notInKB
+346,5,True,Interpol,Interpol
+348,6,True,Russian mafia,Organized crime
+350,1,True,Illegal drug trade,Illegal drug trade
+351,4,True,World Finance Corporation,Money laundering
+352,10,True,notInKB,notInKB
+353,3,True,Strategic planning,Strategic planning
+354,6,True,Switzerland,Switzerland
+355,10,True,notInKB,notInKB
+356,1,True,Hydroelectricity,Hydroelectricity
+359,3,True,notInKB,notInKB
+360,4,True,Radioactive waste,Radioactive waste
+363,1,True,Moritz Leuenberger,Moritz Leuenberger
+364,10,True,notInKB,notInKB
+365,10,True,notInKB,notInKB
+366,4,True,Free trade,Liberalization
+367,5,True,notInKB,notInKB
+368,8,True,Union of South Africa,South Africa
+369,7,True,Apartheid,Apartheid
+370,3,True,African National Congress,African National Congress
+375,1,True,notInKB,notInKB
+376,5,True,Truth and Reconciliation Commission (South Africa),Truth and Reconciliation Commission (South Africa)
+377,8,True,notInKB,notInKB
+380,9,True,Angola,Angola
+381,1,True,Norsk Hydro,Norsk Hydro
+382,3,True,Hydrogen,Hydrogen
+384,10,True,notInKB,notInKB
+385,5,True,Greenhouse gas,Air pollution
+386,2,True,notInKB,notInKB
+387,1,True,Norwegian Water Resources and Energy Directorate,Norwegian Water Resources and Energy Directorate
+389,6,True,Petroleum,Petroleum
+391,10,True,notInKB,notInKB
+392,1,True,Hydroelectricity,Hydroelectricity
+393,7,True,Nitrogen,Nitrogen
+394,8,True,Oslo,Oslo
+395,2,True,The Hague,The Hague
+396,2,True,notInKB,notInKB
+397,1,True,Kamal Kharazi,Kamal Kharazi
+398,1,True,International Court of Justice,International Court of Justice
+399,9,True,Netherlands,Netherlands
+401,7,True,Prague,Prague
+402,5,True,Czech Republic,Czech Republic
+403,10,True,notInKB,notInKB
+405,8,True,Iraq,Iraq
+406,7,True,Persian language,Persian language
+407,4,True,Munich,Munich
+409,7,True,Soviet Union,Soviet Union
+410,3,True,Warsaw Pact,Iron Curtain
+411,7,True,Cold War (general term),Cold War
+412,6,True,Western world,Western world
+413,7,True,Communist,Communism
+414,5,True,Eastern world,Eastern world
+415,9,True,United States,United States
+416,7,True,Iran,Iran
+417,2,True,The Hague,The Hague
+418,2,True,notInKB,notInKB
+419,1,True,Kamal Kharazi,Kamal Kharazi
+420,1,True,International Court of Justice,International Court of Justice
+421,9,True,Netherlands,Netherlands
+422,7,True,Prague,Prague
+423,5,True,Czech Republic,Czech Republic
+424,8,True,Iraq,Iraq
+425,7,True,Persian language,Persian language
+426,1,True,notInKB,notInKB
+427,4,True,Munich,Munich
+428,7,True,Soviet Union,Soviet Union
+429,3,True,Warsaw Pact,Iron Curtain
+430,7,True,Cold War (general term),Cold War
+431,7,True,Soviet,Communism
+432,7,True,Iran,Iran
+433,2,True,International Court of Justice,The Hague
+434,2,True,notInKB,notInKB
+435,1,True,Kamal Kharazi,Kamal Kharazi
+436,1,True,International Court of Justice,International Court of Justice
+437,9,True,Netherlands,Netherlands
+439,7,True,Prague,Prague
+440,5,True,Czech Republic,Czech Republic
+442,8,True,Iraq,Iraq
+443,7,True,Persian language,Persian language
+444,1,True,notInKB,notInKB
+445,4,True,Munich,Munich
+446,7,True,Soviet Union,Soviet Union
+447,3,True,Warsaw Pact,Iron Curtain
+448,7,True,Cold War (general term),Cold War
+449,7,True,Communist,Communism
+450,4,True,Velvet Revolution,Revolutions of 1989
+451,7,True,Iran,Iran
+452,2,True,International Court of Justice,The Hague
+453,2,True,notInKB,notInKB
+454,4,True,Foreign minister,Foreign minister
+455,1,True,Kamal Kharazi,Kamal Kharazi
+456,1,True,International Court of Justice,International Court of Justice
+457,9,True,Netherlands,Netherlands
+458,7,True,Prague,Prague
+459,5,True,Czech Republic,Czech Republic
+460,8,True,Iraq,Iraq
+461,7,True,Persian language,Persian language
+462,4,True,Munich,Munich
+463,7,True,Soviet Union,Soviet Union
+464,3,True,Warsaw Pact,Iron Curtain
+465,7,True,Cold War (general term),Cold War
+466,7,True,Socialist Republic of Romania,Communism
+467,7,True,West Indies cricket team,Caribbean
+468,8,True,South Africa,South Africa
+469,7,True,New Zealand national cricket team,Cricket
+470,2,True,Batting (cricket),Batting (cricket)
+471,1,True,Brian Lara,Brian Lara
+472,1,True,Carl Hooper,Carl Hooper
+473,4,True,Jimmy Adams,Jimmy Adams
+474,1,True,notInKB,notInKB
+475,1,True,Ali Bacher,Ali Bacher
+476,1,True,South Africa national cricket team,South Africa national cricket team
+477,1,True,Clive Lloyd,Clive Lloyd
+478,1,True,Joel Garner,Joel Garner
+479,10,True,notInKB,notInKB
+480,1,True,notInKB,notInKB
+482,1,True,notInKB,notInKB
+483,9,True,Johannesburg,Johannesburg
+484,1,True,Courtney Walsh,Courtney Walsh
+485,7,True,West Indies cricket team,West Indies cricket team
+486,1,True,Caribbean News Agency,Caribbean News Agency
+487,9,True,Brian Lara,Brian Lara
+489,1,True,notInKB,notInKB
+490,2,True,Batting (cricket),Batting (cricket)
+493,1,True,Ali Bacher,Ali Bacher
+495,1,True,Clive Lloyd,Clive Lloyd
+496,1,True,Joel Garner,Joel Garner
+497,10,True,notInKB,notInKB
+498,1,True,notInKB,notInKB
+501,9,True,Johannesburg,Johannesburg
+502,10,True,notInKB,notInKB
+503,10,True,notInKB,notInKB
+504,4,True,Civil Aviation Authority,Civil aviation
+505,7,True,Israelis,Israelis
+506,1,True,Yasser Arafat International Airport,Yasser Arafat International Airport
+507,3,True,Gaza Strip,Gaza Strip
+508,9,True,notInKB,notInKB
+509,10,True,notInKB,notInKB
+510,6,True,Israel,Israelis
+511,10,True,notInKB,notInKB
+513,10,True,notInKB,notInKB
+514,10,True,notInKB,notInKB
+515,8,True,United States Declaration of Independence,Independence
+516,4,True,Civil Aviation Authority,Civil aviation
+517,7,True,Israelis,Israelis
+518,1,True,Yasser Arafat International Airport,Yasser Arafat International Airport
+519,3,True,Gaza Strip,Gaza Strip
+520,9,True,notInKB,notInKB
+521,9,True,Cabinet of Israel,Cabinet of Israel
+523,1,True,Benjamin Netanyahu,Benjamin Netanyahu
+524,10,True,notInKB,notInKB
+525,6,True,Israel,Israelis
+528,10,True,notInKB,notInKB
+529,9,True,American black bear,Bear
+530,3,True,Peasant,Peasant
+531,8,True,Kingdom of Romania,Romania
+533,3,True,Animal husbandry,Livestock
+535,7,True,Count Dracula,Dracula
+536,6,True,Transylvania,Transylvania
+537,5,True,Vampire (Middle-earth),Vampire
+538,2,True,notInKB,notInKB
+539,2,True,Hibernation,Hibernation
+540,2,True,notInKB,notInKB
+541,2,True,Weaning,Weaning
+542,1,True,Nicolae Ceaușescu,Nicolae Ceaușescu
+543,7,True,Communist Party of Romania,Communism
+544,8,True,Francisco Franco,Dictator
+545,7,True,Park ranger,Park ranger
+546,1,True,Apuseni Mountains,Apuseni Mountains
+548,1,True,P. W. Botha,P. W. Botha
+549,1,True,notInKB,notInKB
+550,1,True,Truth and Reconciliation Commission (South Africa),Truth and Reconciliation Commission (South Africa)
+551,3,True,African National Congress,African National Congress
+552,9,True,Wanderers Stadium,Johannesburg
+554,2,True,Contempt of court,Contempt of court
+555,3,True,South African rand,South African rand
+556,6,True,Portugal,Portugal
+557,8,True,Spain,Spain
+558,3,True,Water resources,Water resources
+559,1,True,Iberian Peninsula,Iberian Peninsula
+561,1,True,António Guterres,António Guterres
+562,10,True,Lisbon,Lisbon
+563,10,True,notInKB,notInKB
+564,1,True,José María Aznar,José María Aznar
+565,9,True,Water supply,Water supply
+566,2,True,Hydroelectricity,Hydroelectricity
+567,7,True,Institutions of the European Union,European Union
+569,4,True,Illegal drug trade,Illegal drug trade
+570,6,True,Syria,Syria
+571,9,True,United States,United States
+572,10,True,notInKB,notInKB
+573,4,True,Iraq,Iraq
+574,5,True,Saddam Hussein,Saddam Hussein
+575,1,True,Abdul Halim Khaddam,Abdul Halim Khaddam
+576,4,True,Israel,Israel
+577,10,True,notInKB,notInKB
+578,5,True,Islam,Islam
+579,2,True,Hassan Habibi,Hassan Habibi
+580,1,True,Damascus International Airport,Damascus International Airport
+581,8,True,London,London
+582,10,True,notInKB,notInKB
+583,8,True,Kamal Kharazi,Kamal Kharazi
+584,1,True,Hafez al-Assad,Hafez al-Assad
+585,2,True,notInKB,notInKB
+586,10,True,Dresden,Dresden
+588,4,True,Jürgen Trittin,Jürgen Trittin
+589,10,True,notInKB,notInKB
+590,7,True,Africa,Africa
+591,9,True,Cologne,Cologne
+592,5,True,Erfurt,Erfurt
+593,9,True,Germany,Germany
+594,8,True,Botswana,Botswana
+595,9,True,South Africa,South Africa
+597,9,True,Switzerland,Switzerland
+599,1,True,Animal euthanasia,Animal euthanasia
+600,5,True,Saxony,Saxony
+601,1,True,Beanie Babies,Beanie Babies
+602,9,True,Rembrandt,Rembrandt
+604,7,True,New York metropolitan area,New York City
+605,2,True,Auction,Auction
+606,2,True,Antique,Antique
+607,3,True,notInKB,notInKB
+608,4,True,notInKB,notInKB
+609,1,True,Online auction,Online auction
+610,7,True,Baseball,Baseball
+611,1,True,Charge card,Charge card
+613,8,True,Los Angeles,Los Angeles
+614,2,True,J. Paul Getty Museum,J. Paul Getty Museum
+616,8,True,Italy,Italy
+618,10,True,notInKB,notInKB
+619,5,True,Antiquities,Antiquities
+620,10,True,notInKB,notInKB
+621,7,True,notInKB,notInKB
+622,10,True,notInKB,notInKB
+623,1,True,notInKB,notInKB
+624,6,True,notInKB,notInKB
+625,9,True,notInKB,notInKB
+626,8,True,Roman Empire,Ancient Rome
+627,10,True,notInKB,notInKB
+628,1,True,Theft,Theft
+630,10,True,"Brentwood, Los Angeles","Brentwood, Los Angeles"
+631,1,True,Astronomer,Astronomer
+633,8,True,Texas,Texas
+634,9,True,Mars,Mars
+635,3,True,notInKB,notInKB
+636,1,True,Space Telescope Science Institute,Space Telescope Science Institute
+637,1,True,Hubble Space Telescope,Hubble Space Telescope
+641,7,True,Earth,Earth
+642,1,True,Evaporation,Evaporation
+645,1,True,Planum Boreum,Planum Boreum
+646,1,True,Viking program,Viking program
+647,3,True,Wide Field and Planetary Camera,Wide Field and Planetary Camera
+648,10,True,notInKB,notInKB
+649,8,True,Bear,Bear
+650,5,True,"Anchorage, Alaska","Anchorage, Alaska"
+651,9,True,Alaska,Alaska
+652,2,True,Alaska State Troopers,Alaska State Troopers
+653,1,True,Kenai National Wildlife Refuge,Kenai National Wildlife Refuge
+654,2,True,"Soldotna, Alaska","Soldotna, Alaska"
+657,10,True,notInKB,notInKB
+658,1,True,Swanson River,Swanson River
+660,8,True,"Kenai, Alaska","Kenai, Alaska"
+661,2,True,First Union,First Union
+664,4,True,notInKB,notInKB
+665,1,True,The Charlotte Observer,The Charlotte Observer
+666,10,True,notInKB,notInKB
+667,1,True,notInKB,notInKB
+668,2,True,Fortune 1000,Fortune 500
+670,3,True,Sexual harassment,Sexual harassment
+671,2,True,United Airlines,United Airlines
+672,6,True,Airport terminal,Airport terminal
+675,1,True,Concourse,Concourse
+676,1,True,notInKB,notInKB
+677,1,True,Thunderstorm,Thunderstorm
+678,10,True,notInKB,notInKB
+679,8,True,Louisiana,Louisiana
+680,8,True,Georgia (U.S. state),Georgia (U.S. state)
+681,9,True,Tennessee,Tennessee
+682,9,True,Rain,Rain
+683,8,True,notInKB,notInKB
+684,7,True,Lightning,Lightning
+685,2,True,Hail,Hail
+686,7,True,Wind,Wind
+687,8,True,Ohio,Ohio River
+688,7,True,Oklahoma,Oklahoma
+689,1,True,notInKB,notInKB
+690,10,True,notInKB,notInKB
+691,8,True,Adirondack Park,Adirondack Mountains
+692,2,True,Green Mountains,Green Mountains
+693,6,True,Pennsylvania,Pennsylvania
+694,5,True,Maine,Maine
+695,1,True,notInKB,notInKB
+696,5,True,Freezing,Freezing
+697,10,True,notInKB,notInKB
+698,9,True,Rocky Mountains,Rocky Mountains
+699,10,True,notInKB,notInKB
+700,8,True,Great Plains,Great Plains
+702,7,True,Washington (state),Washington (state)
+703,8,True,Oregon,Oregon
+704,10,True,notInKB,notInKB
+705,8,True,Great Lakes,Great Lakes
+706,10,True,notInKB,notInKB
+707,1,True,notInKB,notInKB
+708,10,True,notInKB,notInKB
+709,1,True,"Cotulla, Texas","Cotulla, Texas"
+710,8,True,"Alice, Texas","Alice, Texas"
+711,9,True,"Grand Marais, Minnesota","Grand Marais, Minnesota"
+712,9,True,Nicaragua,Nicaragua
+714,8,True,Managua,Managua
+716,1,True,notInKB,notInKB
+717,3,True,Sandinista National Liberation Front,Sandinista National Liberation Front
+718,7,True,Contras,Contras
+720,4,True,Pope John Paul II,Pope John Paul II
+721,1,True,Hurricane Mitch,Hurricane Mitch
+722,10,True,notInKB,notInKB
+723,8,True,Central America,Central America
+724,1,True,National Autonomous University of Nicaragua,National Autonomous University of Nicaragua
+725,10,True,notInKB,notInKB
+17,6,True,Federal government of Malaysia,Federation
+19,3,True,Ministry (government department),Government agency
+26,6,True,Minister (government),Minister (government)
+33,4,False,notInC,SET Index
+36,7,True,Senior management,Chief executive officer
+53,6,True,Bituminous coal,Coal
+58,4,True,Mayor of Leninsk-Kuznetsky,Mayor
+62,5,False,notInC,Russian mafia
+63,6,False,notInC,Trial
+87,1,False,notInC,Christie's
+92,4,True,Psychoactive drug,Drug
+95,1,False,notInC,Nice Côte d'Azur Airport
+101,4,False,notInC,Prisoner of war
+134,1,False,notInC,The Guardian (Nigeria)
+142,7,True,Journalism,Journalist
+143,2,False,notInC,Brain tumor
+154,7,True,Prime Minister of Vietnam,Prime minister
+163,1,True,2008 Zanzibar power blackout,Power outage
+164,5,True,2011 East Africa drought,Drought
+165,8,True,Lake Oroville,Reservoir
+168,5,True,Airplane,Fixed-wing aircraft
+189,4,True,United States embargo against Cuba,Embargo
+192,5,False,notInC,Artillery
+195,6,True,Green tea,Tea
+199,7,True,Police officer,Police
+203,4,True,Foodborne illness,Nausea
+205,3,True,Curry,Curry
+219,2,True,Shotgun,Shotgun
+222,4,False,notInC,Firearm
+226,5,True,Francisco Bangoy International Airport,International airport
+231,6,True,Islamic terrorism,Terrorism
+233,3,False,notInC,Airstrike
+241,6,True,Ali Afshari,Activism
+251,5,True,The Holocaust,The Holocaust
+262,8,True,Aum Shinri Kyo,Guru
+273,4,True,Marion True,Curator
+301,3,True,Nationalization,Nationalization
+304,4,True,The Holocaust,The Holocaust
+326,8,True,Mariner 2,Spacecraft
+339,6,True,Launch vehicle,Rocket
+347,3,True,Organized crime,Organized crime
+349,6,True,Terrorism,Terrorism
+357,1,False,notInC,Environmentalism
+358,4,False,notInC,Nuclear power in Switzerland
+361,5,False,notInC,Power station
+362,7,True,Minister (government),Cabinet (government)
+371,7,True,Human rights,Human rights
+372,6,False,notInC,Torture
+373,6,True,Improvised explosive device,Bomb
+374,4,False,notInC,Broadcasting
+378,7,True,European Commission,Commissioner
+379,2,True,Land mine,Land mine
+383,6,True,Norsk Hydro ASA,Power station
+388,5,True,Natural gas,Natural gas
+390,5,True,Carbon dioxide,Carbon dioxide
+400,3,False,notInC,Ambassador
+404,4,False,notInC,Politics
+408,2,True,Censorship,Censorship
+438,3,False,notInC,Ambassador
+441,5,False,notInC,Broadcasting
+488,9,False,notInC,Carl Hooper
+491,2,True,Treasurer of the players' association,Treasurer
+492,4,True,Jimmy Adams,Negotiation
+494,1,False,notInC,Cricket South Africa
+500,4,True,Market,Marketing
+512,5,True,Public transport bus service,Bus
+522,4,True,Ratification of the Treaty of Lisbon,Ratification
+526,4,True,passport,Passport
+527,5,True,Customs,Customs
+532,7,True,Sheep,Sheep
+534,4,False,notInC,Game reserve
+547,8,True,Prosecutor,Prosecutor
+553,6,True,Truth and reconciliation commission,Amnesty
+560,7,True,BadLLM: Prime Minister of Portugal,Prime minister
+568,4,True,Illegal immigration,Illegal immigration
+587,6,True,Zoo,Zoo
+596,8,False,notInC,Humane society
+598,9,False,notInC,Bundestag
+603,4,False,notInC,Sotheby's
+612,7,False,notInC,Christie's
+615,3,True,Looted art,Work of art
+617,8,True,Plastic arts,Sculpture
+629,6,True,Archaeological looting in Iraq,Looting
+638,5,True,Mars,Martian
+639,6,True,Ice,Ice
+640,5,False,notInC,Tropical cyclone
+643,5,True,Carbon dioxide,Carbon dioxide
+644,5,True,Antarctic ice sheet,Ice sheet
+655,4,True,M1 carbine,Rifle
+659,8,True,Brent oilfield,Oil field
+662,4,True,Pornography,Pornography
+663,5,True,Email,Email
+669,0,False,notInC,Cause of action
+674,1,False,notInC,O'Hare International Airport
+701,6,False,notInC,California
+713,8,True,Civil war,Civil war
+719,3,True,Volcano,Types of volcanic eruptions
+726,6,False,notInC,Cancer

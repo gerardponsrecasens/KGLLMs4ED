@@ -1,0 +1,258 @@
+id,candidate_length,in_candidates,response,answer
+0,6,True,Jerusalem in Christianity,Jerusalem
+1,8,True,Agence France-Presse,Agence France-Presse
+2,7,True,Iran,Iran
+3,10,True,Moscow,Moscow
+4,10,False,notInKB,notInKB
+5,8,True,Beirut,Beirut
+6,8,True,Agence France-Presse,Agence France-Presse
+7,9,True,Lebanon,Lebanon
+8,4,True,Israel,Israel
+9,8,True,Beirut,Beirut
+10,8,True,Agence France-Presse,Agence France-Presse
+11,9,True,Lebanon,Lebanon
+12,10,True,United Arab Emirates,United Arab Emirates
+13,10,True,notInKB,notInKB
+14,7,True,Bangkok,Bangkok
+15,8,True,London,London
+16,8,True,Agence France-Presse,Agence France-Presse
+17,8,True,Baghdad,Baghdad
+18,7,True,Riyadh,Riyadh
+19,1,True,King Khalid International Airport,King Khalid International Airport
+20,2,True,Bandar Seri Begawan,Bandar Seri Begawan
+21,8,True,Agence France-Presse,Agence France-Presse
+22,2,True,Florida,Florida
+23,7,True,Brunei,Brunei
+24,10,True,notInKB,notInKB
+25,8,True,Agence France-Presse,Agence France-Presse
+26,8,True,Egypt,Egypt
+27,0,False,notInKB,notInKB
+28,2,True,Bandar Seri Begawan,Bandar Seri Begawan
+29,8,True,Agence France-Presse,Agence France-Presse
+30,2,True,Brunei,Brunei
+31,7,True,Iran,Iran
+32,10,True,notInKB,notInKB
+33,8,True,Agence France-Presse,Agence France-Presse
+34,1,True,Zeist,Zeist
+35,9,True,Netherlands,Holland
+36,8,True,Agence France-Presse,Agence France-Presse
+37,8,True,Soviet Union,Soviet Union
+38,8,True,Sweden,Sweden
+39,10,True,Amsterdam,Amsterdam
+40,7,True,Copenhagen,Copenhagen
+41,9,True,Stockholm,Stockholm
+42,0,False,notInKB,notInKB
+43,0,False,notInKB,notInKB
+44,7,True,Malta,Malta
+45,8,True,Baghdad,Baghdad
+46,8,True,Agence France-Presse,Agence France-Presse
+47,8,True,Iraq,Iraq
+48,9,True,Lebanon,Lebanon
+49,8,True,Agence France-Presse,Agence France-Presse
+50,2,True,Palestinian National Council,Palestinian National Council
+51,7,True,Algeria,Algeria
+52,2,False,notInC,"Tyre, Lebanon"
+53,8,True,Beirut,Beirut
+54,1,True,notInKB,notInKB
+55,8,True,Sidon,Sidon
+56,9,True,Lebanon,Lebanon
+57,6,True,Jerusalem,Jerusalem
+58,2,True,Bandar Seri Begawan,Bandar Seri Begawan
+59,8,True,Agence France-Presse,Agence France-Presse
+60,9,True,United States,United States
+61,8,True,White House,White House
+62,0,False,notInKB,notInKB
+63,6,True,Jerusalem,Jerusalem
+64,8,True,Agence France-Presse,Agence France-Presse
+65,7,True,West Bank,West Bank
+66,8,True,"Tallahassee, Florida","Tallahassee, Florida"
+67,9,True,United States,United States
+68,8,True,Agence France-Presse,Agence France-Presse
+69,9,False,notInC,Supreme Court of Florida
+70,9,True,Florida,Florida
+71,10,True,United States,United States
+72,1,True,Madeleine Albright,Madeleine Albright
+73,10,True,Yale University,Yale University
+74,1,True,Rick Levin,Rick Levin
+75,0,False,notInKB,notInKB
+76,10,True,notInKB,notInKB
+77,3,True,Time (magazine),Time (magazine)
+78,2,True,Bandar Seri Begawan,Bandar Seri Begawan
+79,8,True,Agence France-Presse,Agence France-Presse
+80,7,True,Russia,Russia
+81,7,True,Brunei,Brunei
+82,0,False,notInKB,notInKB
+83,9,True,Cairo,Cairo
+84,8,True,Egypt,Egypt
+85,10,True,notInKB,notInKB
+86,6,True,Syria,Syria
+87,8,False,notInC,President of Egypt
+88,8,True,Iraq,Iraq
+89,7,True,West Bank,West Bank
+90,3,True,Gaza Strip,Gaza Strip
+91,6,True,Jerusalem,Jerusalem
+92,9,True,notInKB,notInKB
+93,0,False,notInKB,notInKB
+94,10,True,Boston,Boston
+95,1,True,notInKB,notInKB
+96,10,True,The Walt Disney Company,The Walt Disney Company
+97,4,True,notInKB,notInKB
+98,7,False,notInC,Time Inc.
+99,8,False,notInC,Warner Communications
+100,2,True,Roger McNamee,Roger McNamee
+101,5,True,notInKB,notInKB
+102,9,True,NBC,NBC
+103,7,True,"Washington, D.C.","Washington, D.C."
+104,0,False,notInKB,notInKB
+105,2,True,Comcast,Comcast
+106,8,True,"Chattanooga, Tennessee","Chattanooga, Tennessee"
+107,2,True,Tennessee,Tennessee
+108,7,True,"Washington, D.C.","Washington, D.C."
+109,8,True,Arkansas,Arkansas
+110,8,True,White House,White House
+111,8,True,Wisconsin,Wisconsin
+112,7,True,Iowa,Iowa
+113,8,True,Michigan,Michigan
+114,6,True,Pennsylvania,Pennsylvania
+115,9,True,"Green Bay, Wisconsin","Green Bay, Wisconsin"
+116,7,True,"Washington, D.C.","Washington, D.C."
+117,7,True,"Washington, D.C.","Washington, D.C."
+118,5,True,Ralph Nader,Ralph Nader
+119,10,True,United States,United States
+120,8,True,President of the United States,White House
+121,9,True,Florida,Florida
+122,8,True,Oregon,Oregon
+123,10,True,"Portland, Oregon","Portland, Oregon"
+124,7,False,notInC,Green Party of Florida
+125,3,True,Sierra Club Foundation,Sierra Club
+126,9,True,University of Florida,University of Florida
+127,9,True,"Gainesville, Florida","Gainesville, Florida"
+128,10,True,notInKB,notInKB
+129,6,True,Fox Sports,Fox Sports (United States)
+130,4,True,Sun Microsystems,Sun Microsystems
+131,1,True,Fidelity Investments,Fidelity Investments
+132,0,False,notInKB,notInKB
+133,0,False,notInKB,notInKB
+134,1,True,PepsiCo,PepsiCo
+135,3,True,Jack Nicholson,Jack Nicholson
+136,3,True,Helen Hunt,Helen Hunt
+137,1,True,Greg Kinnear,Greg Kinnear
+138,1,True,James L. Brooks,James L. Brooks
+139,0,False,notInKB,notInKB
+140,1,True,notInKB,notInKB
+141,7,True,Times Square – 42nd Street (New York City Subway),Times Square
+142,2,True,notInKB,notInKB
+143,1,False,notInC,Reader's Digest
+144,9,True,Levi Strauss & Co.,Levi Strauss & Co.
+145,1,True,Blue Cross Blue Shield Association,Blue Cross Blue Shield Association
+146,1,True,MSN,MSN
+147,8,True,Microsoft,Microsoft
+148,5,True,Land Rover Defender,Land Rover
+149,10,True,Volvo C30,Volvo
+150,0,False,notInKB,notInKB
+151,7,True,notInKB,notInKB
+152,2,True,Houston Grand Opera,Houston Grand Opera
+153,10,True,notInKB,notInKB
+154,10,True,Brooklyn,Brooklyn
+155,9,True,Hong Kong,Hong Kong
+156,8,True,Asia,Asia
+157,2,True,International Monetary Fund,International Monetary Fund
+158,5,True,Philippines,Philippines
+159,7,True,Political status of Taiwan,Taiwan
+160,8,True,Indonesia,Indonesia
+161,1,True,Chen Shui-bian,Chen Shui-bian
+162,8,True,Malaysia,Malaysia
+163,10,True,South Korea,South Korea
+164,7,True,Singapore,Singapore
+165,3,True,Bloomberg News,Bloomberg News
+166,9,True,United States,United States
+167,9,True,China,China
+168,1,True,Hong Kong General Chamber of Commerce,Hong Kong General Chamber of Commerce
+169,1,True,"Grosse Pointe Park, Michigan","Grosse Pointe Park, Michigan"
+170,4,True,Michigan,Michigan
+171,10,True,notInKB,notInKB
+172,6,True,Pennsylvania,Pennsylvania
+173,8,True,Minnesota Department of Natural Resources,Michigan Department of Natural Resources
+174,7,True,Detroit,Detroit
+175,8,True,"Tallahassee, Florida","Tallahassee, Florida"
+176,4,True,Florida,Florida
+177,9,False,notInC,Supreme Court of Florida
+178,3,True,Florida District Courts of Appeal,Florida District Courts of Appeal
+179,9,True,notInKB,notInKB
+180,2,False,notInC,O'Hare International Airport
+181,7,True,LaGuardia Airport,LaGuardia Airport
+182,7,True,New York metropolitan area,New York City
+183,5,True,Southern United States,Southern United States
+184,1,True,United States Department of Transportation,United States Department of Transportation
+185,1,True,Los Angeles International Airport,Los Angeles International Airport
+186,10,True,notInKB,notInKB
+187,1,True,John Wayne Airport,John Wayne Airport
+188,10,True,"Orange County, California","Orange County, California"
+189,2,True,California,California
+190,1,True,Westchester County Airport,Westchester County Airport
+191,9,True,John F. Kennedy International Airport,John F. Kennedy International Airport
+192,3,True,Federal Aviation Administration,Federal Aviation Administration
+193,7,True,"Washington, D.C.","Washington, D.C."
+194,0,False,notInKB,notInKB
+195,5,True,notInKB,notInKB
+196,8,True,London,London
+197,7,True,Taiwan,Taiwan
+198,8,True,"Los Angeles County, California",Los Angeles
+199,2,True,Yasser Arafat,Yasser Arafat
+200,1,True,Corey Flintoff,Corey Flintoff
+201,1,True,notInKB,notInKB
+202,7,True,"Washington, D.C.","Washington, D.C."
+203,1,True,notInKB,notInKB
+204,7,True,"Washington, D.C.","Washington, D.C."
+205,1,True,"Miami-Dade County, Florida","Miami-Dade County, Florida"
+206,9,True,Democratic Party (United States),Democratic Party (United States)
+207,2,True,"Palm Beach County, Florida","Palm Beach County, Florida"
+208,6,True,Al Gore,Al Gore
+209,9,True,Washington (state),Washington (state)
+210,9,True,Seattle,Seattle
+211,5,True,notInKB,notInKB
+212,8,True,London,London
+213,9,True,Supreme Court of the United States,Supreme Court of the United States
+214,0,False,notInKB,notInKB
+215,1,True,Supreme Court of Florida,Supreme Court of Florida
+216,2,False,notInC,Sandra Day O'Connor
+217,7,True,"Washington, D.C.","Washington, D.C."
+218,8,True,United States Navy,United States Navy
+219,3,True,USS Cole (DDG-67),USS Cole (DDG-67)
+220,8,True,Yemen,Yemen
+221,7,True,"Washington, D.C.","Washington, D.C."
+222,9,True,Supreme Court of the United States,Supreme Court of the United States
+223,0,False,notInKB,notInKB
+224,9,True,Baltimore,Baltimore
+225,7,True,Johns Hopkins University,Johns Hopkins University
+226,1,True,Laurence Tribe,Laurence Tribe
+227,9,True,Al Gore,Al Gore
+228,9,False,notInC,Florida Legislature
+229,8,True,United States Congress,United States Congress
+230,1,True,notInKB,notInKB
+231,10,True,United States,United States
+232,8,True,Texas,Texas
+233,1,True,Democratic Opposition of Serbia,Democratic Opposition of Serbia
+234,3,True,Slobodan Milošević,Slobodan Milošević
+235,8,False,notInC,Socialist Party of Serbia
+236,1,True,notInKB,notInKB
+237,8,True,Shanghai,Shanghai
+238,8,True,HSBC,HSBC
+239,0,False,notInKB,notInKB
+240,0,False,notInKB,notInKB
+241,2,True,Pudong,Pudong
+242,8,True,United States,United States
+243,8,True,Citibank,Citibank
+244,9,True,Hong Kong,Hong Kong
+245,10,True,Japan,Japan
+246,1,True,notInKB,notInKB
+247,1,True,notInKB,notInKB
+248,8,True,Beijing,Beijing
+249,1,True,Weir Group,Weir Group
+250,8,True,United States,United States
+251,1,True,Jiangsu,Jiangsu
+252,9,True,China,China
+253,1,True,Rudong County,Rudong County
+254,10,True,Japan,Japan
+255,10,True,South Korea,South Korea
+256,7,True,Taiwan,Taiwan

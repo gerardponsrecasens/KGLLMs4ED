@@ -1,0 +1,651 @@
+id,candidate_length,in_candidates,response,answer
+0,6,False,notInC,Avery Dennison
+1,7,False,notInKB,notInKB
+2,10,True,West Germany,West Germany
+3,1,True,Avery Dennison,Avery Dennison
+4,6,True,Key Tronic,Key Tronic
+5,8,True,London,London
+6,8,True,Teradyne,Teradyne
+7,1,True,Digital Equipment Corporation,Digital Equipment Corporation
+8,9,True,Philadelphia,Philadelphia
+9,8,True,Prudential Securities,Prudential Securities
+10,8,True,Prudential Financial,Prudential Securities
+11,2,True,Toronto Stock Exchange,Toronto Stock Exchange
+12,2,True,Toronto Stock Exchange,Toronto Stock Exchange
+13,1,True,Toronto-Dominion Bank,Toronto-Dominion Bank
+14,8,False,notInC,Prudential Securities
+15,8,False,notInKB,notInKB
+16,8,True,Netherlands,Netherlands
+17,9,True,notInKB,notInKB
+18,8,True,Kingdom of the Netherlands,Netherlands
+19,1,True,notInKB,notInKB
+20,1,True,"Francis Tombs, Baron Tombs","Francis Tombs, Baron Tombs"
+21,10,True,notInKB,notInKB
+22,10,True,notInKB,notInKB
+23,10,True,notInKB,notInKB
+24,10,True,notInKB,notInKB
+25,6,True,Philips,Philips
+26,1,True,New York Stock Exchange,New York Stock Exchange
+27,8,True,Philips,Philips
+28,7,False,notInKB,notInKB
+29,10,False,notInKB,notInKB
+30,5,True,notInKB,notInKB
+31,4,True,New York Stock Exchange,New York Stock Exchange
+32,8,True,Philips,Philips
+33,10,True,notInKB,notInKB
+34,9,True,United States,United States
+35,8,True,Philips,Philips
+36,1,True,European Commission,European Commission
+37,9,True,France,France
+38,4,True,West Germany,West Germany
+39,6,True,Belgium,Belgium
+40,8,True,Spain,Spain
+41,9,True,Denmark,Denmark
+42,6,True,Salomon Brothers,Salomon Brothers
+43,2,True,Volkswagen Group,Volkswagen Group
+44,8,True,Volkswagen,Volkswagen Group
+45,8,True,Volkswagen,Volkswagen Group
+46,8,True,Volkswagen,Volkswagen Group
+47,8,True,Volkswagen,Volkswagen Group
+48,8,True,Volkswagen,Volkswagen Group
+49,1,True,Toronto-Dominion Bank,Toronto-Dominion Bank
+50,5,True,Hambros Bank,Hambros Bank
+51,8,True,London,London
+52,1,True,Toronto-Dominion Bank,Toronto-Dominion Bank
+53,5,True,Hambros Bank,Hambros Bank
+54,8,True,London,London
+55,10,True,"Salem, Oregon","Salem, Oregon"
+56,7,False,notInC,Oregon
+57,6,True,Helen of Troy Limited,Helen of Troy Limited
+58,5,True,U.S. Securities and Exchange Commission,U.S. Securities and Exchange Commission
+59,6,True,Helen of Troy,Helen of Troy Limited
+60,8,True,Drexel Burnham Lambert,Drexel Burnham Lambert
+61,8,True,Brazil,Brazil
+62,7,True,Hanover Insurance,Hanover Insurance
+63,9,False,notInC,Hanover Insurance
+64,9,False,notInC,Hanover Insurance
+65,6,True,Osaka,Osaka
+66,10,True,Japan,Japan
+67,10,True,Japan,Japan
+68,10,True,Japan,Japan
+69,4,True,"Paramus, New Jersey","Paramus, New Jersey"
+70,1,True,New Jersey,New Jersey
+71,7,True,"Wayne, New Jersey","Wayne, New Jersey"
+72,1,True,New Jersey,New Jersey
+73,7,True,"Hackensack, New Jersey","Hackensack, New Jersey"
+74,1,True,New Jersey,New Jersey
+75,7,True,"National Park, New Jersey","National Park, New Jersey"
+76,1,True,New Jersey,New Jersey
+77,7,True,Key West,Key West
+78,4,True,Florida,Florida
+79,8,True,"Myrtle Beach, South Carolina","Myrtle Beach, South Carolina"
+80,4,True,South Carolina,South Carolina
+81,10,True,Houston,Houston
+82,10,True,"Louisville, Kentucky","Louisville, Kentucky"
+83,9,False,notInC,Kentucky
+84,9,True,"Nashville, Tennessee","Nashville, Tennessee"
+85,3,True,Tennessee,Tennessee
+86,0,False,notInC,Zambia
+87,1,True,Kenneth Kaunda,Kenneth Kaunda
+88,2,True,International Monetary Fund,International Monetary Fund
+89,5,True,International Monetary Fund,International Monetary Fund
+90,5,True,International Monetary Fund,International Monetary Fund
+91,5,True,International Monetary Fund,International Monetary Fund
+92,8,True,J.P. Morgan & Co.,Drexel Burnham Lambert
+93,6,True,Alex. Brown & Sons,Alex. Brown & Sons
+94,6,True,Asarco,Asarco
+95,1,True,Asarco,Asarco
+96,1,True,First Boston,First Boston
+97,8,True,notInKB,notInKB
+98,8,True,"Atlantic City, New Jersey","Atlantic City, New Jersey"
+99,1,True,New Jersey,New Jersey
+100,8,True,"Atlantic City, New Jersey","Atlantic City, New Jersey"
+101,1,True,The New England Journal of Medicine,The New England Journal of Medicine
+102,6,True,Wall Street,Wall Street
+103,1,True,Cetus Corporation,Cetus Corporation
+104,1,True,"Emeryville, California","Emeryville, California"
+105,2,True,California,California
+106,9,True,Seattle,Seattle
+107,10,False,notInKB,notInKB
+108,8,True,"Franklin, Tennessee","Franklin, Tennessee"
+109,3,True,Tennessee,Tennessee
+110,3,True,Prudential Securities,Prudential Securities
+111,5,True,Steven Rosenberg,Steven Rosenberg
+112,2,True,National Cancer Institute,National Cancer Institute
+113,2,True,National Cancer Institute,National Cancer Institute
+114,5,True,Fox Chase Cancer Center,Fox Chase Cancer Center
+115,9,False,notInC,Steven Rosenberg
+116,1,True,Georgia Public Service Commission,Georgia Public Service Commission
+117,5,True,Vogtle Electric Generating Plant,Vogtle Electric Generating Plant
+118,6,True,Southern Company,Southern Company
+119,8,True,Southern Company,Georgia Power
+120,8,False,notInC,Georgia Power
+121,3,True,Georgia Power,Georgia Power
+122,3,True,Georgia Power,Georgia Power
+123,8,False,notInC,Georgia Power
+124,3,True,Georgia Power,Georgia Power
+125,1,True,Vogtle Electric Generating Plant,Vogtle Electric Generating Plant
+126,3,True,Georgia Power,Georgia Power
+127,8,True,Atari Corporation,Atari
+128,6,True,Paine Webber,Paine Webber
+129,6,True,Atari Corporation,Atari
+130,1,True,Buenos Aires Province,Buenos Aires Province
+131,9,True,"Córdoba Province, Argentina","Córdoba Province, Argentina"
+132,9,True,Santa Fe Province,Santa Fe Province
+133,6,True,Entre Ríos Province,Entre Ríos Province
+134,3,True,Misiones Province,Misiones Province
+135,5,True,Corrientes Province,Corrientes Province
+136,7,True,Chaco Province,Chaco Province
+137,9,True,Formosa Province,Formosa Province
+138,4,True,La Pampa Province,La Pampa Province
+139,9,True,"Córdoba Province, Argentina","Córdoba Province, Argentina"
+140,4,True,La Pampa Province,La Pampa Province
+141,8,True,Buenos Aires Province,Buenos Aires
+142,9,True,"Córdoba, Argentina","Córdoba Province, Argentina"
+143,9,True,Santa Fe Province,Santa Fe Province
+144,4,True,La Pampa Province,La Pampa Province
+145,8,True,Buenos Aires Province,Buenos Aires Province
+146,9,True,"Córdoba Province, Argentina","Córdoba Province, Argentina"
+147,9,True,Santa Fe Province,Santa Fe Province
+148,7,True,Chaco Province,Chaco Province
+149,4,True,La Pampa Province,La Pampa Province
+150,8,True,Buenos Aires Province,Buenos Aires Province
+151,9,True,Santa Fe Province,Santa Fe Province
+152,5,True,notInKB,notInKB
+153,6,False,notInC,Moody's Investors Service
+154,7,True,Avco Corp,Avco
+155,7,True,AVX Corporation,Avco
+156,6,True,Avco,Avco
+157,1,False,notInC,Moody's Investors Service
+158,1,False,notInC,Moody's Investors Service
+159,3,True,Avco,Avco
+160,2,True,"Treasury Building (Washington, D.C.)",United States Department of the Treasury
+161,1,True,Group of Five,Group of Five
+162,1,True,Gerhard Stoltenberg,Gerhard Stoltenberg
+163,1,True,Deutsche Bundesbank,Deutsche Bundesbank
+164,1,True,Karl Otto Pöhl,Karl Otto Pöhl
+165,1,True,Édouard Balladur,Édouard Balladur
+166,1,True,Jacques de Larosière,Jacques de Larosière
+167,1,True,Kiichi Miyazawa,Kiichi Miyazawa
+168,8,True,Satoshi Sumita,Satoshi Sumita
+169,9,True,"Robin Leigh-Pemberton, Baron Kingsdown","Robin Leigh-Pemberton, Baron Kingsdown"
+170,4,True,notInKB,notInKB
+171,1,True,Giovanni Goria,Giovanni Goria
+172,5,True,United States Department of the Treasury,United States Department of the Treasury
+173,6,True,James Baker,James Baker
+174,9,False,notInC,James Baker
+175,2,True,Giovanni Goria,Giovanni Goria
+176,4,True,notInKB,notInKB
+177,9,True,Paris,Paris
+178,8,True,Italy,Italy
+179,8,True,notInKB,notInKB
+180,10,True,notInKB,notInKB
+181,8,True,Best Buy,Best Buy
+182,8,False,notInKB,notInKB
+183,6,True,The Source (online service),The Source (online service)
+184,1,True,"Welsh, Carson, Anderson & Stowe","Welsh, Carson, Anderson & Stowe"
+185,1,False,notInKB,notInKB
+186,1,True,Avnet,Avnet
+187,5,True,U.S. Securities and Exchange Commission,U.S. Securities and Exchange Commission
+188,2,True,Avnet,Avnet
+189,7,True,"Dillon, Read & Co.","Dillon, Read & Co."
+190,1,True,Continental Bank of Canada,Continental Bank of Canada
+191,8,False,notInC,Continental Bank of Canada
+192,8,False,notInKB,notInKB
+193,8,False,notInC,Continental Bank of Canada
+194,5,True,Canada,Government of Canada
+195,8,False,notInC,Continental Bank of Canada
+196,10,True,Metro Manila,Manila
+197,2,True,Ford Motor Company,Ford Motor Company
+198,9,True,Ford Motor Company,Ford Motor Company
+199,9,True,Ford Motor Company,Ford Motor Company
+200,9,True,Food and Agriculture Organization,Food and Agriculture Organization
+201,1,True,Edouard Saouma,Edouard Saouma
+202,6,True,notInKB,notInKB
+203,10,True,notInKB,notInKB
+204,1,True,Edouard Saouma,Edouard Saouma
+205,6,True,AVX Corporation,AVX Corporation
+206,5,True,U.S. Securities and Exchange Commission,U.S. Securities and Exchange Commission
+207,2,True,AVX Corporation,AVX Corporation
+208,7,True,Lehman Brothers,Shearson
+209,8,True,notInKB,notInKB
+210,1,True,notInKB,notInKB
+211,1,True,notInKB,notInKB
+212,6,True,VF Corporation,GAF Materials Corporation
+213,6,True,GAF Corp,GAF Materials Corporation
+214,10,True,notInKB,notInKB
+215,10,False,notInKB,notInKB
+216,8,True,Kentucky,Kentucky
+217,7,True,Dow Chemical Company,Dow Chemical Company
+218,8,True,Dow Chemical Company,Dow Chemical Company
+219,10,True,Houston,Houston
+220,10,True,Houston,Houston
+221,8,True,Dow Chemical Company,Dow Chemical Company
+222,8,True,Dow Chemical Company,Dow Chemical Company
+223,6,True,GAF Materials Corporation,GAF Materials Corporation
+224,1,True,Samuel J. Heyman,Samuel J. Heyman
+225,6,True,GAF Materials Corporation,GAF Materials Corporation
+226,6,True,Union Carbide Corp,Union Carbide
+227,6,True,BorgWarner,BorgWarner
+228,10,True,Chicago,Chicago
+229,3,True,W. R. Grace and Company,William Russell Grace
+230,9,False,notInC,William Russell Grace
+231,9,True,DuPont,DuPont
+232,3,False,notInC,DuPont
+233,1,True,Monsanto,Monsanto
+234,6,True,GAF Materials Corporation,GAF Materials Corporation
+235,9,False,notInC,Samuel J. Heyman
+236,10,True,Houston,Houston
+237,8,True,DuPont,Conoco
+238,3,True,notInKB,notInKB
+239,1,True,Garo H. Armen,Garo H. Armen
+240,1,True,Dean Witter Reynolds,Dean Witter Reynolds
+241,10,False,notInC,Garo H. Armen
+242,7,False,notInC,International Paper
+243,6,True,Osaka,Osaka
+244,10,True,Japan,Japan
+245,1,True,notInKB,notInKB
+246,10,True,notInKB,notInKB
+247,10,True,notInKB,notInKB
+248,6,True,Freeport-McMoRan,Freeport-McMoRan
+249,10,False,notInC,Freeport-McMoRan
+250,9,True,AT&T Corporation,AT&T Corporation
+251,7,True,AT&T Corporation,AT&T Corporation
+252,1,True,Boeing,Boeing
+253,10,True,Japan Airlines,Japan Airlines
+254,10,False,notInKB,notInKB
+255,8,True,Greater Tokyo Area,Tokyo
+256,1,True,National Transportation Safety Board,National Transportation Safety Board
+257,9,True,Boeing,Boeing
+258,9,True,Boeing,Boeing
+259,9,True,Boeing,Boeing
+260,8,True,MCI Communications,MCI Communications
+261,1,True,Reynolds and Reynolds,Reynolds and Reynolds
+262,7,True,Detroit,Detroit
+263,9,False,notInC,Reynolds and Reynolds
+264,9,False,notInC,Reynolds and Reynolds
+265,9,False,notInC,Reynolds and Reynolds
+266,9,False,notInC,Reynolds and Reynolds
+267,10,True,notInKB,notInKB
+268,1,True,Australian Securities Exchange,Australian Securities Exchange
+269,9,True,Adelaide,Adelaide
+270,0,False,notInC,Australian Securities Exchange
+271,0,False,notInC,Australian Securities Exchange
+272,9,True,notInKB,notInKB
+273,8,True,Queensland,Queensland
+274,1,True,notInKB,notInKB
+275,1,True,notInKB,notInKB
+276,1,True,Luxembourg Stock Exchange,Luxembourg Stock Exchange
+277,1,True,First Boston,First Boston
+278,8,True,Chevron Corporation,Chevron Corporation
+279,1,True,Pennzoil,Pennzoil
+280,6,False,notInC,Chevron Corporation
+281,9,True,Supreme Court of the United States,Supreme Court of the United States
+282,10,True,Pennzoil,Pennzoil
+283,6,True,Occidental Petroleum,Getty Oil
+284,1,False,notInC,Getty Oil
+285,8,True,Getty Oil,Getty Oil
+286,7,True,Philips,Philips
+287,7,False,notInKB,notInKB
+288,10,False,notInKB,notInKB
+289,5,True,PSC Inc.,PSC Inc.
+290,6,True,Merck & Co.,Merck & Co.
+291,8,True,Merck & Co.,Merck & Co.
+292,10,True,notInKB,notInKB
+293,10,True,United States,United States
+294,10,True,Japan,Japan
+295,3,True,Department of Trade and Industry (United Kingdom),Department of Trade and Industry (United Kingdom)
+296,8,True,Ministry of Finance (Japan),Ministry of Finance (Japan)
+297,10,True,Japan,Japan
+298,9,True,Ministry of Finance (Japan),Ministry of Finance (Japan)
+299,1,True,London International Financial Futures and Options Exchange,London International Financial Futures and Options Exchange
+300,3,True,London Metal Exchange,London Metal Exchange
+301,6,True,Department of Trade and Industry (United Kingdom),Department of Trade and Industry (United Kingdom)
+302,6,True,notInKB,notInKB
+303,6,True,notInKB,notInKB
+304,9,True,Switzerland,Switzerland
+305,10,True,United States,United States
+306,9,True,Canada,Canada
+307,10,True,notInKB,notInKB
+308,9,True,Hong Kong,Hong Kong
+309,10,True,Japan,Japan
+310,9,True,France,France
+311,10,True,West Germany,West Germany
+312,9,True,Netherlands,Netherlands
+313,10,True,Japan,Japan
+314,8,True,Greater Tokyo Area,Tokyo
+315,10,True,United States,United States
+316,8,True,London,London
+317,1,True,U.S. Securities and Exchange Commission,U.S. Securities and Exchange Commission
+318,2,True,Government of the United Kingdom,Government of the United Kingdom
+319,8,True,Dominion Textile,Dominion Textile
+320,7,True,Burlington Industries,Burlington Industries
+321,9,True,notInKB,notInKB
+322,1,True,Dominion Textile,Dominion Textile
+323,1,True,Dominion Textile,Dominion Textile
+324,1,True,Dominion Textile,Dominion Textile
+325,1,True,Burlington Industries,Burlington Industries
+326,1,True,Dominion Textile,Dominion Textile
+327,1,True,Asher Edelman,Asher Edelman
+328,1,True,Dominion Textile,Dominion Textile
+329,5,True,notInKB,notInKB
+330,6,False,notInKB,notInKB
+331,10,False,notInKB,notInKB
+332,10,False,notInKB,notInKB
+333,8,True,Greater London,London
+334,10,False,notInKB,notInKB
+335,8,True,Brazil,Brazil
+336,10,False,notInKB,notInKB
+337,7,True,Ivory Coast,Ivory Coast
+338,8,True,Brazil,Brazil
+339,10,True,Ghana,Ghana
+340,8,True,notInKB,notInKB
+341,10,True,notInKB,notInKB
+342,10,True,notInKB,notInKB
+343,6,True,Honduras,Honduras
+344,6,True,Honduras,Honduras
+345,8,True,notInKB,notInKB
+346,1,True,notInKB,notInKB
+347,10,True,notInKB,notInKB
+348,8,True,Thermwood Corporation,Thermwood Corporation
+349,3,True,Thermwood Corporation,Thermwood Corporation
+350,7,False,notInC,U.S. Bancorp
+351,7,True,Stifel,Stifel
+352,5,False,notInC,Moody's Investors Service
+353,1,True,notInKB,notInKB
+354,2,True,Stifel,Stifel
+355,10,True,Investment Technology Group,Investment Technology Group
+356,7,True,Investment Technologies Inc,Investment Technology Group
+357,8,True,Investment Technology Group,Investment Technology Group
+358,4,False,notInC,J. P. Morgan
+359,8,True,Brazil,Brazil
+360,9,False,notInC,J. P. Morgan
+361,9,False,notInC,J. P. Morgan
+362,9,False,notInC,J. P. Morgan
+363,9,False,notInC,J. P. Morgan
+364,8,True,Brazil,Brazil
+365,8,True,Brazil,Brazil
+366,9,False,notInC,J. P. Morgan
+367,8,True,Brazil,Brazil
+368,9,False,notInC,J. P. Morgan
+369,1,True,Avnet,Avnet
+370,5,True,Securities Exchange Act of 1934,U.S. Securities and Exchange Commission
+371,2,True,Avnet,Avnet
+372,5,True,"Dillon, Read & Co.","Dillon, Read & Co."
+373,2,False,notInC,Ministry of Agriculture (Brazil)
+374,7,True,Brasília,Brasília
+375,9,True,notInKB,notInKB
+376,8,True,Brazil,Brazil
+377,6,True,São Paulo (state),São Paulo (state)
+378,7,True,Paraná (state),Paraná (state)
+379,8,True,Rio Grande do Sul,Rio Grande do Sul
+380,1,True,FleetBoston Financial,FleetBoston Financial
+381,8,True,"Providence, Rhode Island","Providence, Rhode Island"
+382,1,True,FleetBoston Financial,FleetBoston Financial
+383,6,False,notInC,Ally Financial
+384,1,True,General Motors,General Motors
+385,7,True,notInKB,notInKB
+386,6,False,notInC,Moody's Investors Service
+387,1,True,notInKB,notInKB
+388,1,False,notInKB,notInKB
+389,8,False,notInC,Tokyo Stock Exchange
+390,1,True,London Stock Exchange,London Stock Exchange
+391,9,True,notInKB,notInKB
+392,8,True,London,London
+393,7,True,CCL Industries,CCL Industries
+394,5,True,Envases Metalurgicos de Alava,Envases Venezolanos
+395,8,True,Spain,Spain
+396,6,True,CCL Industries,CCL Industries
+397,7,True,Enagás,Envases Venezolanos
+398,1,True,International Chamber of Commerce,International Chamber of Commerce
+399,1,True,London Metal Exchange,London Metal Exchange
+400,6,True,AVX Corporation,AVX Corporation
+401,5,True,U.S. Securities and Exchange Commission,U.S. Securities and Exchange Commission
+402,8,True,Lehman Brothers,Lehman Brothers
+403,5,True,U.S. Securities and Exchange Commission,U.S. Securities and Exchange Commission
+404,1,True,John S.R. Shad,John S.R. Shad
+405,8,True,United States Congress,United States Congress
+406,9,True,Supreme Court of the United States,Supreme Court of the United States
+407,7,False,notInC,John S.R. Shad
+408,7,False,notInC,John S.R. Shad
+409,6,True,notInKB,notInKB
+410,1,True,R. Foster Winans,R. Foster Winans
+411,7,False,notInC,John S.R. Shad
+412,7,False,notInC,John S.R. Shad
+413,6,True,U.S. Securities and Exchange Commission,U.S. Securities and Exchange Commission
+414,7,False,notInC,John S.R. Shad
+415,8,True,Netherlands,Netherlands
+416,7,True,Ronald Reagan,Ronald Reagan
+417,1,True,Transportation Communications International Union,Transportation Communications International Union
+418,2,True,Republic Airlines,Republic Airlines
+419,9,False,notInC,Republic Airlines
+420,2,True,Northwest Airlines,Northwest Airlines
+421,7,False,notInC,Western Digital
+422,1,True,Western Digital,Western Digital
+423,7,False,notInKB,notInKB
+424,8,True,Italy,Italy
+425,1,True,notInKB,notInKB
+426,1,True,notInKB,notInKB
+427,9,True,Milan,Milan
+428,7,True,Europe,Europe
+429,10,True,United States,United States
+430,1,True,notInKB,notInKB
+431,1,True,notInKB,notInKB
+432,1,True,notInKB,notInKB
+433,1,True,notInKB,notInKB
+434,9,True,Florida,Florida
+435,4,True,Office of Management and Budget,Office of Management and Budget
+436,9,False,notInC,James C. Miller III
+437,7,True,Ronald Reagan,Ronald Reagan
+438,8,True,United States House Committee on the Budget,United States House Committee on the Budget
+439,8,False,notInC,James C. Miller III
+440,10,True,notInKB,notInKB
+441,1,False,notInC,United States House Committee on the Budget
+442,8,False,notInC,James C. Miller III
+443,8,False,notInC,James C. Miller III
+444,8,False,notInC,James C. Miller III
+445,8,True,DSM (company),DSM (company)
+446,9,True,DSM (company),DSM (company)
+447,9,True,DSM (company),DSM (company)
+448,1,True,Onno Ruding,Onno Ruding
+449,9,True,DSM (company),DSM (company)
+450,1,False,notInKB,notInKB
+451,5,True,U.S. Securities and Exchange Commission,U.S. Securities and Exchange Commission
+452,8,True,Drexel Burnham Lambert,Drexel Burnham Lambert
+453,5,True,Donald Trump,Donald Trump
+454,7,True,Donald Trump,Donald Trump
+455,10,True,Japan,Japan
+456,8,True,Tunisia,Tunisia
+457,4,True,Compagnie Française d u0027 Assurance pour le Commerce Extérieur,French Development Agency
+458,1,False,notInC,Compagnie Française d'Assurance pour le Commerce Extérieur
+459,8,True,Tunisia,Tunisia
+460,9,True,France,France
+461,8,True,Tunisia,Tunisia
+462,6,True,Dow Chemical Company,Great Lakes Chemical Corporation
+463,5,True,U.S. Securities and Exchange Commission,U.S. Securities and Exchange Commission
+464,7,True,Huntsman Corporation,Huntsman Corporation
+465,1,True,First Boston,First Boston
+466,8,True,notInKB,notInKB
+467,1,True,Nortel,Nortel
+468,1,True,Nippon Telegraph and Telephone,Nippon Telegraph and Telephone
+469,7,True,West Germany,West Germany
+470,5,False,notInKB,notInKB
+471,10,True,West Germany,West Germany
+472,2,False,notInKB,notInKB
+473,1,True,United States Senate Committee on the Budget,United States Senate Committee on the Budget
+474,2,True,Lawton Chiles,Lawton Chiles
+475,9,True,Lawton Chiles,Lawton Chiles
+476,5,False,notInC,Esky
+477,2,True,Chicago Mercantile Exchange,CME Group
+478,5,True,U.S. Securities and Exchange Commission,U.S. Securities and Exchange Commission
+479,9,True,Chicago Mercantile Exchange,CME Group
+480,9,True,Chicago Mercantile Exchange,CME Group
+481,9,True,Chicago Mercantile Exchange,CME Group
+482,9,True,Chicago Mercantile Exchange,CME Group
+483,9,True,Chicago Mercantile Exchange,CME Group
+484,1,True,notInKB,notInKB
+485,1,True,Leo Melamed,Leo Melamed
+486,6,True,Leo Melamed,Leo Melamed
+487,7,True,Poland,Poland
+488,9,True,Stockholm,Stockholm
+489,7,True,Poland,Poland
+490,1,True,Paris Club,Paris Club
+491,7,True,Iran,Iran
+492,7,True,Basra,Basra
+493,1,True,Mir-Hossein Mousavi,Mir-Hossein Mousavi
+494,6,True,Mir-Hossein Mousavi,Mir-Hossein Mousavi
+495,3,True,notInKB,notInKB
+496,7,True,Iran,Iran
+497,7,True,Iran,Iran
+498,8,True,Iraq War,Iraq
+499,6,True,Abdolrahim Mousavi,Mir-Hossein Mousavi
+500,3,True,Iran–Iraq War,Saddam Hussein
+501,7,True,notInKB,notInKB
+502,7,True,Basra,Basra
+503,8,True,Baghdad,Baghdad
+504,2,True,Ahvaz,Ahvaz
+505,1,True,notInKB,notInKB
+506,10,False,notInKB,notInKB
+507,1,True,notInKB,notInKB
+508,8,True,Harcourt (publisher),Harcourt (publisher)
+509,8,True,Harcourt (publisher),Harcourt (publisher)
+510,4,True,CBS Corporation,CBS Corporation
+511,6,True,Burlington Industries,Burlington Industries
+512,10,False,notInC,Burlington Industries
+513,1,True,Asher Edelman,Asher Edelman
+514,6,True,Dominion Textile,Dominion Textile
+515,9,True,Asher Edelman,Asher Edelman
+516,4,False,notInC,Dominion Textile
+517,10,False,notInKB,notInKB
+518,9,True,Asher Edelman,Asher Edelman
+519,4,False,notInC,Dominion Textile
+520,10,False,notInC,Dominion Textile
+521,9,True,Edelman (firm),Asher Edelman
+522,4,False,notInC,Dominion Textile
+523,10,False,notInC,Burlington Industries
+524,4,False,notInC,Dominion Textile
+525,4,False,notInC,Dominion Textile
+526,4,False,notInC,Dominion Textile
+527,4,False,notInC,Dominion Textile
+528,10,False,notInC,Burlington Industries
+529,10,False,notInC,Burlington Industries
+530,10,False,notInC,Burlington Industries
+531,5,False,notInC,WestPoint Home
+532,10,False,notInC,Burlington Industries
+533,10,False,notInC,Burlington Industries
+534,9,True,Asher Edelman,Asher Edelman
+535,9,True,Asher Edelman,Asher Edelman
+536,5,True,Lucky Stores,Lucky Stores
+537,8,True,Fruehauf Trailer Corporation,Fruehauf Trailer Corporation
+538,10,False,notInC,Burlington Industries
+539,2,True,WestPoint Home,WestPoint Home
+540,6,False,notInC,Cannon Mills
+541,1,True,Cannon Mills,Cannon Mills
+542,9,False,notInC,Cannon Mills
+543,8,True,"Kidder, Peabody & Co.","Kidder, Peabody & Co."
+544,9,True,notInKB,notInKB
+545,1,True,"Kidder, Peabody & Co.","Kidder, Peabody & Co."
+546,7,True,"Ministry of Economy, Trade and Industry",Ministry of International Trade and Industry
+547,1,True,Office of the United States Trade Representative,Office of the United States Trade Representative
+548,7,True,Ronald Reagan,Ronald Reagan
+549,10,True,Japan,Japan
+550,7,True,Ronald Reagan,Ronald Reagan
+551,10,True,Japan,Japan
+552,7,True,Ronald Reagan,Ronald Reagan
+553,10,True,Japan,Japan
+554,8,True,Tokyo,Tokyo
+555,9,True,notInKB,notInKB
+556,9,True,United States,United States
+557,1,True,Emerson Radio,Emerson Radio
+558,8,True,Celanese,Celanese
+559,9,True,North Carolina,North Carolina
+560,8,True,South Carolina,South Carolina
+561,2,True,"Darlington County, South Carolina","Darlington County, South Carolina"
+562,4,True,South Carolina,South Carolina
+563,9,True,"Fayetteville, North Carolina","Fayetteville, North Carolina"
+564,3,True,North Carolina,North Carolina
+565,2,True,Celanese,Celanese
+566,10,True,Celanese,Celanese
+567,4,True,Hoechst AG,Hoechst AG
+568,4,True,Federal Trade Commission,Federal Trade Commission
+569,2,True,Celanese,Celanese
+570,8,True,South Carolina,South Carolina
+571,4,True,Hoechst AG,Hoechst AG
+572,1,True,Celanese,Celanese
+573,5,True,United States Department of the Treasury,United States Department of the Treasury
+574,7,True,Ronald Reagan,Ronald Reagan
+575,5,True,United States Department of the Treasury,United States Department of the Treasury
+576,7,True,Presidency of Ronald Reagan,Ronald Reagan
+577,10,True,Jimmy Carter,Jimmy Carter
+578,10,True,Jimmy Carter,Jimmy Carter
+579,9,True,United States,United States
+580,8,False,notInC,Xcel Energy
+581,6,False,notInC,Xcel Energy
+582,9,True,Denver,Denver
+583,1,True,Colorado Public Utilities Commission,Colorado Public Utilities Commission
+584,7,False,notInC,Xcel Energy
+585,3,True,Colorado House of Representatives,Colorado House of Representatives
+586,6,False,notInC,Xcel Energy
+587,10,True,notInKB,notInKB
+588,3,True,Integrated Services Digital Network,Integrated Services Digital Network
+589,3,True,Integrated Services Digital Network,Integrated Services Digital Network
+590,2,True,John East,John East
+591,3,True,Integrated Services Digital Network,Integrated Services Digital Network
+592,3,True,Integrated Services Digital Network,Integrated Services Digital Network
+593,3,True,Integrated Services Digital Network,Integrated Services Digital Network
+594,3,True,Integrated Services Digital Network,Integrated Services Digital Network
+595,3,True,Integrated Services Digital Network,Integrated Services Digital Network
+596,10,True,notInKB,notInKB
+597,9,False,notInKB,notInKB
+598,8,False,notInKB,notInKB
+599,10,True,notInKB,notInKB
+600,8,True,London,London
+601,9,True,United States,United States
+602,9,True,United States,United States
+603,10,True,notInKB,notInKB
+604,10,False,notInKB,notInKB
+605,10,True,notInKB,notInKB
+606,10,True,notInKB,notInKB
+607,8,True,notInKB,notInKB
+608,5,True,Federal government of the United States,Federal government of the United States
+609,10,True,notInKB,notInKB
+610,10,True,notInKB,notInKB
+611,10,True,notInKB,notInKB
+612,10,True,notInKB,notInKB
+613,10,True,notInKB,notInKB
+614,4,True,Brown & Brown,Alex. Brown & Sons
+615,4,True,Hambrecht & Quist,Hambrecht & Quist
+616,8,False,notInKB,notInKB
+617,10,True,notInKB,notInKB
+618,1,True,United States Senate Committee on the Budget,United States Senate Committee on the Budget
+619,2,True,Lawton Chiles,Lawton Chiles
+620,9,True,Lawton Chiles,Lawton Chiles
+621,10,True,notInKB,notInKB
+622,9,True,Lawton Chiles,Lawton Chiles
+623,10,True,notInKB,notInKB
+624,8,True,Quebec,Quebec
+625,8,True,Noranda (mining company),Noranda (mining company)
+626,1,True,notInKB,notInKB
+627,8,True,Quebec,Quebec
+628,1,True,Charles-Eugène Marin,Charles-Eugène Marin
+629,4,True,Noranda (mining company),Noranda (mining company)
+630,4,True,Noranda (mining company),Noranda (mining company)
+631,4,True,Noranda (mining company),Noranda (mining company)
+632,7,True,Noranda (mining company),Noranda (mining company)
+633,7,True,Noranda (mining company),Noranda (mining company)
+634,4,True,Noranda (mining company),Noranda (mining company)
+635,10,True,notInKB,notInKB
+636,6,True,Western Digital,Western Digital
+637,10,True,notInKB,notInKB
+638,1,True,notInKB,notInKB
+639,9,True,Morgan Stanley,Morgan Stanley
+640,9,False,notInC,Morgan Stanley
+641,4,False,notInC,Moody's Investors Service
+642,9,True,notInKB,notInKB
+643,10,True,notInKB,notInKB
+644,8,True,Ohio,Ohio
+645,7,False,notInKB,notInKB
+646,10,True,"Columbus, Ohio","Columbus, Ohio"
+647,8,True,Ohio,Ohio
+648,10,True,United States District Court for the Southern District of Ohio,United States District Court for the Southern District of Ohio
+649,10,True,notInKB,notInKB

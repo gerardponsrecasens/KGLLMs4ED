@@ -1,0 +1,525 @@
+id,candidate_length,in_candidates,response,answer
+0,2,True,American Civil Liberties Union,American Civil Liberties Union
+1,2,True,American Civil Liberties Union,American Civil Liberties Union
+2,2,True,American Civil Liberties Union,American Civil Liberties Union
+3,1,True,Wu Ching-kuo,Wu Ching-kuo
+4,2,True,WPVI-TV,Action News
+5,3,True,Sheldon Adelson,Sheldon Adelson
+6,1,True,Insurance Institute for Highway Safety,Insurance Institute for Highway Safety
+7,2,True,Aeroflot,Aeroflot
+8,4,True,notInKB,notInKB
+9,3,True,notInKB,notInKB
+10,2,False,notInKB,notInKB
+11,10,True,Mogadishu,Mogadishu
+12,9,True,University of Alabama,University of Alabama
+13,10,False,notInC,United States Citizenship and Immigration Services
+14,10,False,notInC,United States Citizenship and Immigration Services
+15,10,True,United States Army,United States Army
+16,9,True,Amazon.com,Amazon.com
+17,2,True,Jeff Bezos,Jeff Bezos
+18,9,True,Amazon.com,Amazon.com
+19,2,True,Jeff Bezos,Jeff Bezos
+20,1,True,Ambassador Bridge,Ambassador Bridge
+21,2,True,Amnesty International,Amnesty International
+22,1,True,Andrea Hlaváčková,Andrea Hlaváčková
+23,1,True,Bethanie Mattek-Sands,Bethanie Mattek-Sands
+24,1,True,Angelique Kerber,Angelique Kerber
+25,1,True,Tímea Babos,Tímea Babos
+26,1,True,American Electric Power,American Electric Power
+27,9,True,West Virginia,West Virginia
+28,1,True,American Electric Power,American Electric Power
+29,9,True,West Virginia,West Virginia
+30,3,False,notInC,Steve Jobs
+31,5,False,notInC,October
+32,9,True,Apple Inc.,Apple Inc.
+33,2,True,Tim Cook,Tim Cook
+34,9,True,Apple Inc.,Apple Inc.
+35,7,True,Steve Jobs,Steve Jobs
+36,9,True,Apple Inc.,Apple Inc.
+37,9,True,Argentina,Argentina national football team
+38,1,True,Agustín Pichot,Agustín Pichot
+39,10,True,Arizona Cardinals,Arizona Cardinals
+40,2,True,Larry Fitzgerald,Larry Fitzgerald
+41,9,True,Martin Dempsey,Martin Dempsey
+42,3,True,Joint Chiefs of Staff,Joint Chiefs of Staff
+43,9,True,Martin Dempsey,Martin Dempsey
+44,3,True,Joint Chiefs of Staff,Joint Chiefs of Staff
+45,7,True,Martin Dempsey,Martin Dempsey
+46,3,True,Joint Chiefs of Staff,Joint Chiefs of Staff
+47,1,True,Arthur Caplan,Arthur Caplan
+48,5,True,Associated Press,Associated Press
+49,5,True,Associated Press,Associated Press
+50,5,True,Associated Press,Associated Press
+51,5,True,Associated Press,Associated Press
+52,5,True,Associated Press,Associated Press
+53,5,True,Associated Press,Associated Press
+54,5,True,Associated Press,Associated Press
+55,5,True,Associated Press,Associated Press
+56,5,True,Associated Press,Associated Press
+57,5,True,Associated Press,Associated Press
+58,5,True,Associated Press,Associated Press
+59,10,True,Atlanta,Atlanta
+60,10,True,"Decatur County, Georgia","Decatur, Georgia"
+61,3,True,Bay Area Laboratory Co-operative,Bay Area Laboratory Co-operative
+62,1,True,Victor Conte,Victor Conte
+63,8,False,notInC,BIMP-EAGA
+64,10,True,BMC Racing Team,BMC Racing Team
+65,1,True,Tejay van Garderen,Tejay van Garderen
+66,1,True,Bafétimbi Gomis,Bafétimbi Gomis
+67,9,True,France,France national football team
+68,2,True,Bob Baffert,Bob Baffert
+69,8,True,Baltimore Orioles,Baltimore Orioles
+70,1,True,Josh Beckett,Josh Beckett
+71,9,True,Baltimore,Baltimore Orioles
+72,1,True,Josh Beckett,Josh Beckett
+73,9,True,Baltimore,Baltimore Orioles
+74,1,True,Josh Beckett,Josh Beckett
+75,10,False,notInC,"Bangor, Iowa"
+76,10,False,notInC,"Bangor, Iowa"
+77,9,True,Denver,Denver
+78,9,True,Barclays,Barclays
+79,10,True,Great Britain,Great Britain
+80,9,True,Barclays,Barclays
+81,8,True,San Francisco–Oakland Bay Bridge,San Francisco–Oakland Bay Bridge
+82,9,False,notInC,Marshall Thundering Herd football
+83,9,True,Gatineau,Gatineau
+84,1,True,notInKB,notInKB
+85,9,False,notInKB,notInKB
+86,10,True,"Milton, Massachusetts","Milton, Massachusetts"
+87,1,True,BlueScope Steel,BlueScope Steel
+88,6,True,Richard H. Bernstein,Richard H. Bernstein
+89,9,True,Port authority,Port authority
+90,1,True,Bobby Valentine,Bobby Valentine
+91,8,True,Yahoo!,Yahoo!
+92,1,True,notInKB,notInKB
+93,1,True,Boingo Wireless,Boingo Wireless
+94,10,True,Bologna,Bologna
+95,10,True,Boston Red Sox,Boston Red Sox
+96,1,True,Bobby Valentine,Bobby Valentine
+97,10,True,Boston Red Sox,Boston Red Sox
+98,1,True,Bobby Valentine,Bobby Valentine
+99,10,True,Boston,Boston Red Sox
+100,9,True,Minnesota,Minnesota Twins
+101,10,True,Boston,Boston Red Sox
+102,1,True,Bobby Valentine,Bobby Valentine
+103,10,True,Boston,Boston Red Sox
+104,1,True,Larry Lucchino,Larry Lucchino
+105,10,True,Boston,Boston Red Sox
+106,1,True,Johnny Pesky,Johnny Pesky
+107,9,False,notInC,Pro Bowl
+108,5,False,notInKB,notInKB
+109,9,False,notInC,Pro Bowl
+110,2,True,Larry Fitzgerald,Larry Fitzgerald
+111,6,True,Brad Pitt,Brad Pitt
+112,2,True,Jennifer Aniston,Jennifer Aniston
+113,6,True,W. Bradford Wilcox,W. Bradford Wilcox
+114,7,True,National Marriage Project,The National Marriage Project
+115,6,True,UNESCO,UNESCO
+116,1,True,West Virginia State University,West Virginia State University
+117,1,True,West Virginia State University,West Virginia State University
+118,9,True,Norman E. Brinker,Nancy Brinker
+119,5,True,British Airways,British Airways
+120,9,False,notInC,United States Bureau of Reclamation
+121,9,False,notInC,Roman Catholic Archdiocese of Portland in Oregon
+122,1,True,Roman Catholic Archdiocese of Portland in Oregon,Roman Catholic Archdiocese of Portland in Oregon
+123,9,True,Chicago Bulls,Chicago Bulls
+124,1,True,Tom Thibodeau,Tom Thibodeau
+125,2,True,Boomer Esiason,Boomer Esiason
+126,10,True,CBS Sports Network,CBS Sports
+127,2,True,Boomer Esiason,Boomer Esiason
+128,9,True,CBS,CBS
+129,1,True,Leslie Moonves,Leslie Moonves
+130,9,False,notInC,Corrections Corporation of America
+131,10,True,Central Intelligence Agency,Central Intelligence Agency
+132,1,True,George Tenet,George Tenet
+133,3,True,CNET,CNET
+134,10,True,CNN,CNN
+135,2,True,Jonathan Klein (CNN),Jonathan Klein (CNN)
+136,1,True,China National Offshore Oil Corporation,China National Offshore Oil Corporation
+137,10,True,California,California
+138,6,True,Leland Yee,Leland Yee
+139,8,False,notInC,General Motors Canada
+140,10,True,Arizona Cardinals,Arizona Cardinals
+141,1,True,Ken Whisenhunt,Ken Whisenhunt
+142,10,True,Louisville Cardinals,Arizona Cardinals
+143,8,True,24 Hours of Daytona,"Daytona Beach, Florida"
+144,10,True,Carolina Panthers,Carolina Panthers
+145,6,True,Stephen Colbert,Stephen Colbert
+146,3,True,Carroll College (Montana),Carroll College (Montana)
+147,1,True,Mike Van Diest,Mike Van Diest
+148,9,True,Philadelphia Daily News,Philadelphia Daily News
+149,1,True,Cecile Richards,Cecile Richards
+150,1,True,Planned Parenthood,Planned Parenthood
+151,6,False,notInC,November
+152,1,True,Charles Aznavour,Charles Aznavour
+153,8,True,Georgia (country),Georgia (country)
+154,1,True,Charles Elachi,Charles Elachi
+155,1,True,Jet Propulsion Laboratory,Jet Propulsion Laboratory
+156,1,True,Charles Elachi,Charles Elachi
+157,9,False,notInC,Jet Propulsion Laboratory
+158,10,True,Chelsea F.C.,Chelsea F.C.
+159,9,True,John Terry,John Terry
+160,10,True,Chelsea F.C.,Chelsea F.C.
+161,10,True,FA Cup,FA Cup
+162,1,True,"Cherokee Village, Arkansas","Cherokee Village, Arkansas"
+163,9,True,Chevron Corporation,Chevron Corporation
+164,9,True,Chicago White Sox,Chicago White Sox
+165,1,True,Kevin Youkilis,Kevin Youkilis
+166,10,True,Chicago,Chicago
+167,6,True,"Libertyville Township, Lake County, Illinois","Libertyville, Illinois"
+168,10,True,China,China
+169,1,True,Senkaku Islands,Senkaku Islands
+170,1,True,China Times,China Times
+171,10,False,notInC,Bill Maloney
+172,10,True,Cornell University,Cornell University
+173,7,True,Food and Agriculture Organization,Food and Agriculture Organization
+174,10,True,Chrysler,Chrysler
+175,2,True,Vitaly Churkin,Vitaly Churkin
+176,10,True,United States,United States
+177,10,False,notInC,Eric Kearney
+178,9,True,Jon A. Husted,Jon A. Husted
+179,8,True,Gannett Company,Gannett Company
+180,10,True,United States Navy,United States Navy
+181,10,False,notInC,Cleveland Browns
+182,1,True,Romeo Crennel,Romeo Crennel
+183,10,False,notInC,Cleveland Indians
+184,1,True,Eric Wedge,Eric Wedge
+185,7,False,notInC,"Clinton, Ontario"
+186,7,True,"Washington, D.C.","Washington, D.C."
+187,1,True,Coalition Avenir Québec,Coalition Avenir Québec
+188,1,True,François Legault,François Legault
+189,1,True,Coconino National Forest,Coconino National Forest
+190,8,True,Nebraska,Nebraska Cornhuskers football
+191,1,True,Colville tribe,Colville tribe
+192,10,True,Communist Party of China,Communist Party of China
+193,1,True,Bo Xilai,Bo Xilai
+194,1,True,Geno Auriemma,Geno Auriemma
+195,1,True,Control Yuan,Control Yuan
+196,10,True,"Conway, Arkansas","Conway, Arkansas"
+197,1,True,Highland Capital Partners,Highland Capital Partners
+198,10,True,Cosmopolitan (magazine),Cosmopolitan (magazine)
+199,1,True,Helen Gurley Brown,Helen Gurley Brown
+200,10,False,notInKB,notInKB
+201,10,True,2006 Dallas Cowboys season,Dallas Cowboys
+202,1,True,Tony Romo,Tony Romo
+203,9,True,"Raleigh, North Carolina","Raleigh, North Carolina"
+204,9,True,"Washington, D.C.","Washington, D.C."
+205,3,True,Cathy L. Lanier,Cathy L. Lanier
+206,10,False,notInC,Denver International Airport
+207,7,True,California Department of Motor Vehicles,Department of Motor Vehicles
+208,7,True,California Department of Motor Vehicles,Department of Motor Vehicles
+209,7,True,California Department of Motor Vehicles,Department of Motor Vehicles
+210,10,True,notInKB,notInKB
+211,8,True,"Tucson, Arizona","Tucson, Arizona"
+212,1,True,Dan Rooney,Dan Rooney
+213,10,True,Pittsburgh Steelers,Pittsburgh Steelers
+214,1,True,Daniel Yergin,Daniel Yergin
+215,10,False,notInC,Paul Ryan
+216,10,False,notInC,Paul Ryan
+217,10,False,notInC,Republican Party of Kentucky
+218,1,True,Boise National Forest,Boise National Forest
+219,9,True,"Davie, Florida","Davie, Florida"
+220,4,True,Montclair Kimberley Academy,Montclair Kimberley Academy
+221,1,False,notInC,Australian Defence Force
+222,1,True,Angus Houston,Angus Houston
+223,8,False,notInC,Ministry of Defence (Czech Republic)
+224,9,True,Delta Air Lines,Delta Air Lines
+225,1,False,notInC,Socialist Party (France)
+226,9,True,Denver,Denver
+227,7,True,"Aurora, Illinois","Aurora, Colorado"
+228,9,True,Denver,Denver
+229,7,True,"Aurora, Colorado","Aurora, Colorado"
+230,8,True,Madonna (entertainer),Madonna (entertainer)
+231,1,True,The Detroit News,The Detroit News
+232,2,True,Dish Network,Dish Network
+233,8,True,Maine,Maine
+234,10,True,Dish Network,Dish Network
+235,8,True,Maine,Maine
+236,3,True,Los Angeles Dodgers,Los Angeles Dodgers
+237,1,True,Don Mattingly,Don Mattingly
+238,9,True,2000 Miami Dolphins season,Miami Dolphins
+239,9,True,Miami Dolphins,Miami Dolphins
+240,1,True,Dan Marino,Dan Marino
+241,1,True,Donny Schatz,Donny Schatz
+242,1,True,Knoxville Nationals,Knoxville Nationals
+243,4,True,"Roseburg, Oregon","Roseburg, Oregon"
+244,1,True,New York Medical College,New York Medical College
+245,1,True,"University of California, San Francisco","University of California, San Francisco"
+246,10,True,Detroit,Detroit
+247,10,False,notInC,Arne Duncan
+248,7,True,"Washington, D.C.","Washington, D.C."
+249,1,True,Dunkin' Donuts,Dunkin' Donuts
+250,10,True,Boston,Boston
+251,10,True,ESPN,ESPN
+252,10,True,ESPN,ESPN
+253,2,False,notInC,"Federal Department of Economic Affairs, Education and Research"
+254,5,False,notInC,"Federal Department of Economic Affairs, Education and Research"
+255,1,True,Edison Electric Institute,Edison Electric Institute
+256,8,True,United States Department of Education,Department for Education
+257,1,True,Arne Duncan,Arne Duncan
+258,10,True,Michelle Rhee,Michelle Rhee
+259,10,False,notInC,American Council on Education
+260,1,True,Molly Corbett Broad,Molly Corbett Broad
+261,4,True,The Church of Jesus Christ of Latter-day Saints,The Church of Jesus Christ of Latter-day Saints
+262,1,False,notInC,Stephen Elop
+263,5,True,Nokia,Nokia
+264,10,True,England cricket team,England cricket team
+265,1,True,Andrew Strauss,Andrew Strauss
+266,10,True,England cricket team,England cricket team
+267,1,True,Andrew Strauss,Andrew Strauss
+268,10,True,England cricket team,England cricket team
+269,1,True,Andrew Strauss,Andrew Strauss
+270,10,True,England cricket team,England cricket team
+271,8,True,Andrew Strauss,Andrew Strauss
+272,6,True,Premier League,Premier League
+273,10,True,Manchester City F.C.,Manchester City F.C.
+274,9,False,notInC,England cricket team
+275,1,True,Andrew Strauss,Andrew Strauss
+276,9,False,notInC,Charlie Summers
+277,1,True,Environmental Defense Fund,Environmental Defense Fund
+278,10,False,notInC,Occupational safety and health
+279,1,True,Eslite Bookstore,Eslite Bookstore
+280,9,True,European Commission,European Commission
+281,1,True,Evercore Partners,Evercore Partners
+282,2,True,"ʻEwa Beach, Hawaii","ʻEwa Beach, Hawaii"
+283,7,True,"Aiea, Hawaii","Aiea, Hawaii"
+284,2,True,Executive Yuan,Executive Yuan
+285,9,True,Federal Communications Commission,Federal Communications Commission
+286,1,True,Julius Genachowski,Julius Genachowski
+287,9,True,Federal Communications Commission,Federal Communications Commission
+288,1,True,Julius Genachowski,Julius Genachowski
+289,10,False,notInC,Hall of fame
+290,1,True,Jerry Rice,Jerry Rice
+291,10,False,notInC,Hall of fame
+292,1,True,Michael Irvin,Michael Irvin
+293,10,False,notInC,Hall of fame
+294,1,True,Michael Irvin,Michael Irvin
+295,9,True,"Fayetteville, Arkansas","Fayetteville, West Virginia"
+296,2,True,Federal Highway Administration,Federal Highway Administration
+297,1,True,Victor Mendez,Victor Mendez
+298,2,True,Federal Highway Administration,Federal Highway Administration
+299,1,True,Victor Mendez,Victor Mendez
+300,6,True,Roger Federer,Roger Federer
+301,1,True,Bernard Tomic,Bernard Tomic
+302,2,True,Félix Hernández,Félix Hernández
+303,10,True,Seattle Mariners,Seattle Mariners
+304,2,True,Félix Hernández,Félix Hernández
+305,10,True,Seattle Mariners,Seattle Mariners
+306,2,True,Félix Hernández,Félix Hernández
+307,10,True,Seattle Mariners,Seattle Mariners
+308,8,True,Seattle,Seattle Mariners
+309,2,True,Félix Hernández,Félix Hernández
+310,1,True,Fikile Mbalula,Fikile Mbalula
+311,1,True,Caster Semenya,Caster Semenya
+312,2,True,Financial Supervisory Commission (Republic of China),Financial Supervisory Commission (Republic of China)
+313,9,True,George Mason University,George Mason University
+314,10,True,"Foley, Alabama","Foley, Alabama"
+315,1,True,Todd Watson,Todd Watson
+316,10,True,"Portland, Maine","Portland, Maine"
+317,9,True,Ministry of Foreign Affairs (Republic of China),Ministry of Foreign Affairs (Republic of China)
+318,3,True,Major League Baseball,Major League Baseball
+319,1,True,Rico Brogna,Rico Brogna
+320,7,True,Marshall Thundering Herd football,Marshall University
+321,1,True,Jim Donnan,Jim Donnan
+322,9,True,Fox Broadcasting Company,Fox
+323,9,False,notInC,France women's national basketball team
+324,4,True,Céline Dumerc,Céline Dumerc
+325,9,False,notInC,Tour de France
+326,1,True,Alberto Contador,Alberto Contador
+327,9,False,notInC,Tour de France
+328,1,True,Alberto Contador,Alberto Contador
+329,9,False,notInC,Tour de France
+330,5,True,Lance Armstrong,Lance Armstrong
+331,8,True,Laurent Fignon,Laurent Fignon
+332,1,True,Bernard Hinault,Bernard Hinault
+333,10,True,General Motors,General Motors
+334,10,True,General Motors,General Motors
+335,7,True,Republican Party (United States),Republican Party (United States)
+336,4,True,Mitt Romney,Mitt Romney
+337,7,True,Republican Party (United States),Republican Party (United States)
+338,4,True,Mitt Romney,Mitt Romney
+339,7,True,Republican Party (United States),Republican Party (United States)
+340,4,True,Mitt Romney,Mitt Romney
+341,7,True,Republican Party (United States),Republican Party (United States)
+342,4,True,"Mitt Romney presidential campaign, 2012",Mitt Romney
+343,7,True,Republican Party (United States),Republican Party (United States)
+344,7,True,John Adams (Ohio politician),John Adams
+345,2,True,Lewiston High School,Lewiston High School
+346,1,True,notInKB,notInKB
+347,10,False,notInKB,notInKB
+348,2,True,Quincy High School (Massachusetts),Quincy High School (Massachusetts)
+349,5,True,George Mason University,George Mason University
+350,10,False,notInC,George Washington Colonials
+351,10,True,Agence France-Presse,Agence France-Presse
+352,10,True,San Francisco Giants,New York Giants
+353,2,True,Brandon Belt,Brandon Belt
+354,10,True,San Francisco Giants,New York Giants
+355,1,True,Bruce Bochy,Bruce Bochy
+356,7,False,notInKB,notInKB
+357,10,True,Golden Globe Award for Best Actor – Motion Picture Drama,Golden Globe Award
+358,2,True,Kelsey Grammer,Kelsey Grammer
+359,8,True,Goldman Sachs,Goldman Sachs
+360,9,True,Gio Gonzalez,Gio Gonzalez
+361,9,True,"Oakland, California",San Francisco Bay Area
+362,10,True,Grammy Award,Grammy Award
+363,1,True,John Legend,John Legend
+364,1,True,Maryland State Police,Maryland State Police
+365,8,True,Christine Gregoire,Christine Gregoire
+366,10,False,notInC,Robert Guerrero
+367,9,False,notInC,Hampden Academy
+368,1,True,NASDAQ,NASDAQ
+369,1,True,Harmonix,Harmonix
+370,1,True,Alex Rigopulos,Alex Rigopulos
+371,10,False,notInC,Arab Community Center for Economic and Social Services
+372,1,False,notInC,National Center for Health Statistics
+373,8,True,Centers for Disease Control and Prevention,Centers for Disease Control and Prevention
+374,1,True,notInKB,notInKB
+375,1,False,notInKB,notInKB
+376,1,True,Hearst Corporation,Hearst Corporation
+377,1,True,Hendrick Motorsports,Hendrick Motorsports
+378,2,True,notInKB,notInKB
+379,8,True,Félix Hernández,Félix Hernández
+380,10,True,Seattle Mariners,Seattle Mariners
+381,8,True,Hezbollah,Hezbollah
+382,1,True,Hassan Nasrallah,Hassan Nasrallah
+383,10,True,notInKB,notInKB
+384,10,True,notInKB,notInKB
+385,1,True,U.S. Chemical Safety and Hazard Investigation Board,U.S. Chemical Safety and Hazard Investigation Board
+386,7,True,CBS,CBS News
+387,10,True,United States Department of Homeland Security,United States Department of Homeland Security
+388,1,True,Daryl Johnson,Daryl Johnson
+389,3,False,notInC,Cincinnati Children's Hospital Medical Center
+390,2,False,notInC,Cincinnati Children's Hospital Medical Center
+391,10,True,"Hoover, Alabama","Hoover, Alabama"
+392,8,False,notInC,National Taiwan University Hospital
+393,7,False,notInKB,notInKB
+394,9,True,CCTV News,China Central Television
+395,7,True,Hu Jintao,Hu Jintao
+396,6,False,notInC,Jang Sung-taek
+397,4,True,ILVA,ILVA
+398,1,True,Bruno Ferrante,Bruno Ferrante
+399,8,True,Illinois,Illinois
+400,1,True,notInKB,notInKB
+401,8,True,Illinois,Illinois
+402,2,True,Luis Gutiérrez,Luis Gutiérrez
+403,0,False,notInC,Virtual world
+404,9,True,Cleveland Indians,Cleveland Indians
+405,1,True,Manny Acta,Manny Acta
+406,10,False,notInC,West Indies cricket team
+407,10,True,Chris Gayle,Chris Gayle
+408,1,True,Ir Amim,Ir Amim
+409,1,True,Football Association of Ireland,Football Association of Ireland
+410,1,True,Giovanni Trapattoni,Giovanni Trapattoni
+411,9,True,London,London
+412,1,True,Andreas Seppi,Andreas Seppi
+413,10,True,Italy,Italy national football team
+414,1,True,Cesare Prandelli,Cesare Prandelli
+415,7,True,Federal Bureau of Investigation,Federal Bureau of Investigation
+416,10,True,Japan,Japan
+417,4,True,Senkaku Islands dispute,Senkaku Islands
+418,10,False,notInC,CEGEP
+419,1,True,Jeff Crowe,Jeff Crowe
+420,1,True,Norwest Venture Partners,Norwest Venture Partners
+421,1,True,Jesse Levine,Jesse Levine
+422,2,True,Donald Young (tennis),Donald Young (tennis)
+423,1,True,Bed Bath & Beyond,Bed Bath & Beyond
+424,1,True,Jobbik,Jobbik
+425,1,True,Gábor Vona,Gábor Vona
+426,2,True,Johanna Larsson (tennis),Johanna Larsson (tennis)
+427,10,False,notInC,Casey Dellacqua
+428,1,True,Edwards Air Force Base,Edwards Air Force Base
+429,2,True,Dish Network,Dish Network
+430,9,False,notInC,Thomas David Jones
+431,9,True,Lyndon B. Johnson Space Center,NASA
+432,8,True,United States Department of Justice,United States Department of Justice
+433,2,True,KHOU,KHOU
+434,10,True,Kansas City Chiefs,Kansas City Chiefs
+435,1,True,Herman Edwards,Herman Edwards
+436,1,True,Geothermal Energy Association,Geothermal Energy Association
+437,8,True,Kayla Harrison,Kayla Harrison
+438,9,True,"Marblehead, Massachusetts","Marblehead, Massachusetts"
+439,1,True,Kelley Blue Book,Kelley Blue Book
+440,1,True,"Belgrade, Maine","Belgrade, Maine"
+441,1,True,notInKB,notInKB
+442,9,False,notInC,Republican Party of Kentucky
+443,9,False,notInC,Republican Party of Kentucky
+444,1,True,notInKB,notInKB
+445,9,True,Kentucky,Kentucky Wildcats
+446,10,False,notInC,John Calipari
+447,2,True,notInKB,notInKB
+448,10,True,"Portland, Oregon","Portland, Maine"
+449,10,True,"Portland, Oregon","Portland, Maine"
+450,10,True,"Columbus, Ohio","Columbus, Ohio"
+451,9,True,"Rockland, Massachusetts","Rockland, Maine"
+452,5,True,Kurla,Kurla
+453,7,True,Mumbai,Mumbai
+454,2,True,Yayoi Kusama,Yayoi Kusama
+455,9,True,New York City,New York
+456,2,True,"Oakland County, Michigan","Oakland County, Michigan"
+457,2,True,L.L.Bean,L.L.Bean
+458,9,True,2007 LSU Tigers football team,LSU Tigers and Lady Tigers
+459,1,True,Les Miles,Les Miles
+460,9,True,2007 LSU Tigers football team,LSU Tigers and Lady Tigers
+461,1,True,Les Miles,Les Miles
+462,9,True,2007 LSU Tigers football team,LSU Tigers and Lady Tigers
+463,1,True,Les Miles,Les Miles
+464,1,True,Bureau of Land Management,Bureau of Land Management
+465,2,True,Larry Fitzgerald,Larry Fitzgerald
+466,7,True,Uganda,Uganda
+467,1,True,Lars Boom,Lars Boom
+468,6,True,2011 Eneco Tour,Eneco Tour
+469,10,True,Brooklyn,Brooklyn
+470,1,True,United States Commercial Service,United States Commercial Service
+471,8,True,"Lewis County, West Virginia","Lewis County, West Virginia"
+472,10,False,notInC,"Ireland, West Virginia"
+473,9,True,Eric Liddell,Eric Liddell
+474,2,False,notInC,February
+475,9,True,Tampa Bay Lightning,Tampa Bay Lightning
+476,1,True,Steven Stamkos,Steven Stamkos
+477,1,True,notInKB,notInKB
+478,7,False,notInC,First Student (United States)
+479,5,False,notInC,United States Department of Education
+480,1,True,Ma Ying-jeou,Ma Ying-jeou
+481,5,False,notInKB,notInKB
+482,1,True,Sebastian Coe,Sebastian Coe
+483,1,True,Lonmin,Lonmin
+484,3,True,Los Angeles Dodgers,Los Angeles Dodgers
+485,3,True,Peter O'Malley,Peter O'Malley
+486,8,True,Los Angeles Lakers,Los Angeles Lakers
+487,5,True,Kobe Bryant,Kobe Bryant
+488,8,True,Miami International Airport,Miami International Airport
+489,1,True,MLB Network,MLB Network
+490,1,True,Harold Reynolds,Harold Reynolds
+491,8,True,Major League Baseball,Major League Baseball
+492,1,True,John Smoltz,John Smoltz
+493,10,False,notInC,Marshall University
+494,5,True,Doc Holliday (American football),Doc Holliday (American football)
+495,10,False,notInC,Marshall University
+496,5,True,Doc Holliday (American football),Doc Holliday (American football)
+497,8,True,National Football League Most Valuable Player Award,Most Valuable Player
+498,3,True,Peyton Manning,Peyton Manning
+499,9,False,notInC,Real Madrid C.F.
+500,1,True,notInKB,notInKB
+501,1,True,Maine State Police,Maine State Police
+502,8,False,notInC,New England Cable News
+503,10,True,Manchester City F.C.,Manchester City F.C.
+504,10,True,Chelsea F.C.,Chelsea F.C.
+505,1,False,notInC,Maplecroft
+506,8,True,Diego Maradona,Diego Maradona
+507,10,True,Beijing,Beijing
+508,1,True,Michigan Supreme Court,Michigan Supreme Court
+509,10,True,Seattle Mariners,Seattle Mariners
+510,1,True,Eric Wedge,Eric Wedge
+511,1,True,notInKB,notInKB
+512,9,False,notInC,Appalachian Trail Conservancy
+513,9,True,Olympique de Marseille,Olympique de Marseille
+514,1,True,Élie Baup,Élie Baup
+515,6,True,Maruti 800,Maruti Suzuki
+516,8,True,United States,United States
+517,8,False,notInC,Tyrann Mathieu
+518,3,True,notInKB,notInKB
+519,7,False,notInC,Chilean Gendarmerie
+520,3,True,Mayo Clinic,Mayo Clinic
+521,10,True,Indianapolis,Indianapolis
+522,1,True,Melanie Sloan,Melanie Sloan
+523,1,True,Citizens for Responsibility and Ethics in Washington,Citizens for Responsibility and Ethics in Washington

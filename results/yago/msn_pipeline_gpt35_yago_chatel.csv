@@ -1,0 +1,657 @@
+id,candidate_length,in_candidates,response,answer
+0,1,True,Nouri al-Maliki,Nouri al-Maliki
+1,8,True,Baghdad,Baghdad
+2,8,True,Iraq,Iraq
+3,8,True,Iraq,Iraq
+4,5,True,NBC,NBC News
+5,5,True,Saddam Hussein,Saddam Hussein
+6,5,True,Saddam Hussein,Saddam Hussein
+7,1,True,Mowaffak al-Rubaie,Mowaffak al-Rubaie
+8,3,True,Saddam Hussein,Saddam Hussein
+9,4,True,notInKB,notInKB
+10,3,True,Saddam Hussein,Saddam Hussein
+11,4,True,Al Jazeera,Al Jazeera
+12,8,True,World Wide Web,Internet
+13,3,True,Saddam Hussein,Saddam Hussein
+14,10,True,notInKB,notInKB
+15,2,True,Nouri al-Maliki,Nouri al-Maliki
+16,1,True,Nouri al-Maliki,Nouri al-Maliki
+17,3,True,Saddam Hussein,Saddam Hussein
+18,3,True,United States Army,United States Armed Forces
+19,9,True,United States,United States
+20,1,True,Mowaffak al-Rubaie,Mowaffak al-Rubaie
+21,1,True,Mowaffak al-Rubaie,Mowaffak al-Rubaie
+22,3,True,Saddam Hussein,Saddam Hussein
+23,1,True,notInKB,notInKB
+24,4,True,Al Jazeera,Al Jazeera
+25,8,True,Website,Website
+26,3,True,Saddam Hussein,Saddam Hussein
+27,10,True,The New York Times,The New York Times
+28,6,True,Husayn ibn Ali,Saddam Hussein
+29,1,True,Mowaffak al-Rubaie,Mowaffak al-Rubaie
+30,2,True,Nouri al-Maliki,Nouri al-Maliki
+31,9,True,The New York Times,The New York Times
+32,1,True,Mowaffak al-Rubaie,Mowaffak al-Rubaie
+33,10,True,notInKB,notInKB
+34,3,True,Nouri al-Maliki,Nouri al-Maliki
+35,8,True,Najaf Governorate,Najaf
+36,3,True,Saddam Hussein,Saddam Hussein
+37,1,True,Al Arabiya,Al Arabiya
+38,6,True,NBCUniversal,MSNBC
+39,3,True,Saddam Hussein,Saddam Hussein
+40,1,True,Muqtada al-Sadr,Muqtada al-Sadr
+41,1,True,Muqtada al-Sadr,Muqtada al-Sadr
+42,1,True,Muqtada al-Sadr,Muqtada al-Sadr
+43,1,True,Muqtada al-Sadr,Muqtada al-Sadr
+44,2,True,notInKB,notInKB
+45,2,True,Sunni Islam,Sunni Islam
+46,2,True,Muqtada al-Sadr,Muqtada al-Sadr
+47,3,True,Saddam Hussein,Saddam Hussein
+48,3,True,Nouri al-Maliki,Nouri al-Maliki
+49,9,True,United States,United States
+50,9,True,notInKB,notInKB
+51,3,True,United States Army,United States Armed Forces
+52,3,True,United States Army,United States Armed Forces
+53,8,True,Iraq,Iraq
+54,10,False,notInKB,notInKB
+55,3,True,Saddam Hussein,Saddam Hussein
+56,10,True,United States Army,United States Armed Forces
+57,10,False,notInKB,notInKB
+58,3,True,Santa Baby,Santa Baby
+59,3,True,Mayo Clinic,Mayo Clinic
+60,3,True,Mayo Clinic,Mayo Clinic
+61,2,True,Stony Brook University,Stony Brook University
+62,7,True,New York metropolitan area,New York City
+63,1,True,University of Gothenburg,University of Gothenburg
+64,8,True,Sweden,Sweden
+65,8,True,London,London
+66,1,True,notInKB,notInKB
+67,6,True,Ohio State University,Ohio State University
+68,9,True,University of Missouri,University of Missouri
+69,7,True,"Tuscaloosa, Alabama","Tuscaloosa, Alabama"
+70,1,True,Alabama,Alabama
+71,1,True,Nick Saban,Nick Saban
+72,9,True,Nick Saban,Nick Saban
+73,8,True,Alabama Crimson Tide football,University of Alabama
+74,10,True,Miami Dolphins,Miami Dolphins
+75,10,True,Alabama Crimson Tide football,Alabama Crimson Tide
+76,1,True,Bear Bryant,Bear Bryant
+77,9,True,Nick Saban,Nick Saban
+78,8,True,Alabama,Alabama
+79,1,True,Mal Moore,Mal Moore
+80,8,True,Alabama Crimson Tide football,Alabama Crimson Tide
+81,9,True,Nick Saban,Nick Saban
+82,9,True,Nick Saban,Nick Saban
+83,8,True,Alabama Crimson Tide football,University of Alabama
+84,8,True,LSU Tigers football,Louisiana State University
+85,6,True,Southeastern Conference,Southeastern Conference
+86,8,True,Miami,Miami Dolphins
+87,8,True,Alabama Crimson Tide football,University of Alabama
+88,1,True,Mike DuBose,Mike DuBose
+89,8,True,Alabama Crimson Tide football,Alabama Crimson Tide
+90,1,True,Gene Stallings,Gene Stallings
+91,8,True,Alabama,University of Alabama
+92,8,False,notInC,Mal Moore
+93,9,True,Bear Bryant,Bear Bryant
+94,9,True,Nick Saban,Nick Saban
+95,8,False,notInC,Mal Moore
+96,8,True,Alabama,University of Alabama
+97,9,True,Nick Saban,Nick Saban
+98,8,True,University of Alabama,University of Alabama
+99,9,True,Nick Saban,Nick Saban
+100,8,True,Alabama Crimson Tide football,Alabama Crimson Tide
+101,10,True,Florida State Seminoles football,Florida State University
+102,1,True,Kevin Steele,Kevin Steele
+103,9,True,Florida State Seminoles football,Florida State Seminoles football
+104,1,True,Bobby Bowden,Bobby Bowden
+105,9,True,Nick Saban,Nick Saban
+106,2,True,notInKB,notInKB
+107,1,True,JaMarcus Russell,JaMarcus Russell
+108,1,True,Early Doucet,Early Doucet
+109,1,True,LaRon Landry,LaRon Landry
+110,8,True,LSU Tigers football,Louisiana State University
+111,10,True,notInKB,notInKB
+112,7,True,University of Notre Dame,Notre Dame Fighting Irish football
+113,7,True,"Baton Rouge, Louisiana","Baton Rouge, Louisiana"
+114,9,True,Nick Saban,Nick Saban
+115,7,True,"Tuscaloosa, Alabama","Tuscaloosa, Alabama"
+116,9,True,Nick Saban,Nick Saban
+117,8,True,Louisiana State University,Louisiana State University
+118,8,True,Michigan State University,Michigan State Spartans football
+119,9,True,Nick Saban,Nick Saban
+120,2,True,Lake Burton (Georgia),Lake Burton (Georgia)
+121,8,True,Georgia (U.S. state),Georgia (U.S. state)
+122,9,True,Nick Saban,Nick Saban
+123,1,True,Joy Bauer,Joy Bauer
+124,2,True,notInKB,notInKB
+125,1,True,Nutritionist,Nutritionist
+126,1,True,Joy Bauer,Joy Bauer
+127,10,False,notInC,Joy Bauer
+128,7,False,notInC,New Year
+129,1,True,Low-density lipoprotein,Low-density lipoprotein
+130,1,True,High-density lipoprotein,High-density lipoprotein
+131,1,True,Triglyceride,Triglyceride
+132,1,True,notInKB,notInKB
+133,1,True,The American Journal of Clinical Nutrition,The American Journal of Clinical Nutrition
+134,2,True,Blackberry,Blackberry
+135,4,True,Walnut,Walnut
+136,6,True,Strawberry,Strawberry
+137,2,True,Artichoke,Artichoke
+138,2,True,Cranberry,Cranberry
+139,6,True,Berry,Raspberry
+140,3,True,Vaccinium,Blueberry
+141,2,True,Whole Wheat,Whole grain
+142,1,True,Whole grain,Whole grain
+143,1,True,Joy Bauer,Joy Bauer
+144,9,True,United States,United States
+145,1,True,Sago Mine disaster,Sago Mine disaster
+146,2,True,"Buckhannon, West Virginia","Buckhannon, West Virginia"
+147,9,True,West Virginia,West Virginia
+148,1,True,Sago Mine disaster,Sago Mine disaster
+149,2,True,"Buckhannon, West Virginia","Buckhannon, West Virginia"
+150,9,True,West Virginia,West Virginia
+151,9,True,West Virginia,West Virginia
+152,1,True,Sago Mine disaster,Sago Mine disaster
+153,8,True,Sago Mine disaster,Sago Mine disaster
+154,9,True,West Virginia,West Virginia
+155,1,True,Mine Safety and Health Administration,Mine Safety and Health Administration
+156,9,True,West Virginia,West Virginia
+157,1,True,Sago Mine disaster,Sago Mine disaster
+158,8,True,Sago Mine disaster,Sago Mine disaster
+159,1,True,notInKB,notInKB
+160,3,True,Michael Chertoff,Michael Chertoff
+161,7,True,"Washington, D.C.","Washington, D.C."
+162,6,True,United States Department of Homeland Security,United States Department of Homeland Security
+163,1,True,Michael Chertoff,Michael Chertoff
+164,9,True,Democratic Party (United States),Democratic Party (United States)
+165,8,True,United States Congress,United States Congress
+166,3,True,Michael Chertoff,Michael Chertoff
+167,9,True,United States,United States
+168,1,True,notInKB,notInKB
+169,3,True,Michael Chertoff,Michael Chertoff
+170,3,True,Michael Chertoff,Michael Chertoff
+171,7,True,"Washington, D.C.","Washington, D.C."
+172,7,True,"Washington, D.C.","Washington, D.C."
+173,10,True,"San Diego County, California",San Diego
+174,8,True,notInKB,notInKB
+175,10,True,"Columbus, Ohio","Columbus, Ohio"
+176,8,True,Ohio,Ohio
+177,10,True,"Sioux Falls, South Dakota","Sioux Falls, South Dakota"
+178,3,True,South Dakota,South Dakota
+179,1,True,"Laramie County, Wyoming","Laramie County, Wyoming"
+180,1,True,Wyoming,Wyoming
+181,10,True,Chicago,Chicago
+182,9,True,Cleveland,Cleveland
+183,7,True,"Baton Rouge, Louisiana","Baton Rouge, Louisiana"
+184,4,True,Louisiana,Louisiana
+185,5,True,"Mandan, North Dakota","Mandan, North Dakota"
+186,2,True,North Dakota,North Dakota
+187,4,True,American Samoa,American Samoa
+188,3,True,Organized incorporated territories of the United States,Territories of the United States
+189,8,True,United States Congress,United States Congress
+190,9,True,Democratic Party (United States),Democratic Party (United States)
+191,1,True,Chuck Schumer,Chuck Schumer
+192,10,True,notInKB,notInKB
+193,7,True,New York metropolitan area,New York City
+194,9,True,United States,United States
+195,7,True,New York metropolitan area,New York City
+196,10,True,Chicago,Chicago
+197,5,True,"Mandan, North Dakota","Mandan, North Dakota"
+198,2,True,"Morton County, North Dakota","Morton County, North Dakota"
+199,2,True,North Dakota,North Dakota
+200,10,True,Justin Timberlake,Justin Timberlake
+201,7,True,Cameron Diaz,Cameron Diaz
+202,1,True,notInKB,notInKB
+203,7,True,Justin Timberlake,Justin Timberlake
+204,1,True,Cameron Diaz,Cameron Diaz
+205,1,True,Star (magazine),Star (magazine)
+206,9,True,Star (magazine),Star (magazine)
+207,7,True,Cameron Diaz,Cameron Diaz
+208,9,True,Christmas,Christmas
+209,9,True,"Vail, Colorado","Vail, Colorado"
+210,1,True,Colorado,Colorado
+211,10,True,Justin Timberlake,Justin Timberlake
+212,10,True,"Memphis, Tennessee","Memphis, Tennessee"
+213,1,True,notInKB,notInKB
+214,10,True,Saturday Night Live (season 34),Saturday Night Live
+215,7,True,Cameron Diaz,Cameron Diaz
+216,10,True,Justin Timberlake,Justin Timberlake
+217,8,True,notInKB,notInKB
+218,10,True,Justin Timberlake,Justin Timberlake
+219,1,True,Innosense,Innosense
+220,8,True,Britney Spears,Britney Spears
+221,7,False,notInC,Innosense
+222,10,True,Britney Spears,Britney Spears
+223,1,True,Innosense,Innosense
+224,1,True,Lou Pearlman,Lou Pearlman
+225,8,True,Texas,Texas
+226,10,True,Houston,Houston
+227,1,True,George Bush Intercontinental Airport,George Bush Intercontinental Airport
+228,10,True,Houston,Houston
+229,7,True,Houston Police,Police
+230,9,True,United States,United States
+231,8,True,London,London
+232,10,True,notInKB,notInKB
+233,9,True,United States,United States
+234,10,True,notInKB,notInKB
+235,7,True,Las Vegas,Las Vegas
+236,8,True,"Fresno, California","Fresno, California"
+237,2,True,California,California
+238,10,True,notInKB,notInKB
+239,7,True,Las Vegas,Las Vegas
+240,9,True,United States,United States
+241,7,True,Frankfurt,Frankfurt
+242,7,True,Las Vegas,Las Vegas
+243,8,True,"Bakersfield, California","Bakersfield, California"
+244,6,True,California,California
+245,6,True,California,California
+246,1,True,U.S. Customs and Border Protection,U.S. Customs and Border Protection
+247,1,True,notInKB,notInKB
+248,3,True,Ulama,Ulama
+249,8,True,South Africa,South Africa
+250,2,True,San Francisco International Airport,San Francisco International Airport
+251,2,True,US Airways,US Airways
+252,9,True,Minneapolis,Minneapolis
+253,8,True,"Phoenix, Arizona","Phoenix, Arizona"
+254,1,True,United States military casualties of war,United States military casualties of war
+255,8,True,Iraq War,Iraq
+256,5,True,notInKB,notInKB
+257,1,True,notInKB,notInKB
+258,1,True,notInKB,notInKB
+259,7,True,Las Vegas,Las Vegas
+260,7,False,notInC,New Year
+261,4,True,notInKB,notInKB
+262,2,True,Alzenau,Alzenau
+263,7,False,notInC,Federal government of the United States
+264,8,True,Federal Bureau of Investigation,Federal Bureau of Investigation
+265,1,True,"North Las Vegas, Nevada","North Las Vegas, Nevada"
+266,9,True,United States,United States
+267,1,True,U.S. Immigration and Customs Enforcement,U.S. Immigration and Customs Enforcement
+268,8,True,Federal Bureau of Investigation,Federal Bureau of Investigation
+269,7,True,Las Vegas,Las Vegas
+270,10,True,notInKB,notInKB
+271,8,True,Ganges,Ganges
+272,10,True,Pilgrims (Plymouth Colony),Pilgrim
+273,6,True,Allahabad district,Allahabad
+274,6,True,India,India
+275,10,True,notInKB,notInKB
+276,1,True,Ganges,Ganges
+277,3,True,notInKB,notInKB
+278,6,True,India,India
+279,1,True,notInKB,notInKB
+280,8,True,Ganges,Ganges
+281,5,True,Yamuna,Yamuna
+282,6,True,Allahabad district,Allahabad
+283,2,True,Hindu mythology,Hindu texts
+284,1,True,notInKB,notInKB
+285,8,True,Ganges,Ganges
+286,1,True,notInKB,notInKB
+287,5,True,West Bengal,West Bengal
+288,4,True,Madhya Pradesh,Madhya Pradesh
+289,8,True,Ganges,Ganges
+290,1,True,notInKB,notInKB
+291,2,True,notInKB,notInKB
+292,6,True,Allahabad district,Allahabad
+293,2,True,notInKB,notInKB
+294,4,True,Indian Army,Indian Army
+295,6,True,Allahabad district,Allahabad
+296,6,True,Hindi,Hindi
+297,6,True,Uttar Pradesh,Uttar Pradesh
+298,7,True,Garuda,Garuda
+299,5,True,Vishnu,Hindu deities
+300,6,True,Narayana,Vishnu
+301,7,True,Garuda,Garuda
+302,1,True,notInKB,notInKB
+303,1,True,notInKB,notInKB
+304,1,True,notInKB,notInKB
+305,1,True,Guinness World Records,Guinness World Records
+306,7,True,Gerald Ford,Gerald Ford
+307,8,True,Michigan,Michigan
+308,9,True,"Grand Rapids, Michigan","Grand Rapids, Michigan"
+309,4,True,Michigan,Michigan
+310,3,True,Gerald Ford,Gerald Ford
+311,3,True,notInKB,notInKB
+312,9,True,Gerald Ford,Gerald Ford
+313,2,True,Vice President of the United States,Vice President of the United States
+314,7,True,Dick Cheney,Dick Cheney
+315,2,True,Betty Ford,Betty Ford
+316,4,True,Flag of the United States,Flag of the United States
+317,9,True,Gerald Ford,Gerald Ford
+318,9,True,Gerald Ford,Gerald Ford
+319,2,True,Donald Rumsfeld,Donald Rumsfeld
+320,9,True,Gerald Ford,Gerald Ford
+321,8,True,Jimmy Carter,Jimmy Carter
+322,2,True,Donald Rumsfeld,Donald Rumsfeld
+323,1,True,Jack Nicklaus,Jack Nicklaus
+324,2,True,Donald Rumsfeld,Donald Rumsfeld
+325,2,True,Donald Rumsfeld,Donald Rumsfeld
+326,6,True,George W. Bush,George W. Bush
+327,9,True,Gerald Ford,Gerald Ford
+328,8,True,Watergate scandal,Watergate scandal
+329,2,True,Donald Rumsfeld,Donald Rumsfeld
+330,7,True,United States Navy,United States Navy
+331,9,True,Gerald Ford,Gerald Ford
+332,3,True,Gerald Ford,Gerald Ford
+333,9,True,Gerald Ford,Gerald Ford
+334,10,True,Jimmy Carter,Jimmy Carter
+335,2,True,Rosalynn Carter,Rosalynn Carter
+336,9,True,Gerald Ford,Gerald Ford
+337,9,True,"Grand Rapids, Michigan","Grand Rapids, Michigan"
+338,10,True,"Lansing, Michigan","Lansing, Michigan"
+339,9,True,Gerald Ford,Gerald Ford
+340,9,True,Gerald Ford,Gerald Ford
+341,9,True,"Grand Rapids, Michigan","Grand Rapids, Michigan"
+342,8,True,United States House of Representatives,United States Congress
+343,1,True,Richard Norton Smith,Richard Norton Smith
+344,9,True,Gerald Ford,Gerald Ford
+345,9,True,Gerald Ford,Gerald Ford
+346,9,True,"Grand Rapids, Michigan","Grand Rapids, Michigan"
+347,8,False,notInC,Richard Norton Smith
+348,9,True,Gerald Ford,Gerald Ford
+349,7,True,University of Michigan,University of Michigan
+350,8,True,University of Michigan,Michigan
+351,9,True,Gerald Ford,Gerald Ford
+352,7,True,Richard Nixon,Richard Nixon
+353,3,True,"Rancho Mirage, California","Rancho Mirage, California"
+354,2,True,California,California
+355,2,True,The Home Depot,The Home Depot
+356,3,True,Robert Nardelli,Robert Nardelli
+357,10,True,Atlanta,Atlanta
+358,1,True,Robert Nardelli,Robert Nardelli
+359,1,True,The Home Depot,The Home Depot
+360,3,True,Robert Nardelli,Robert Nardelli
+361,10,True,Atlanta,Atlanta
+362,3,True,Robert Nardelli,Robert Nardelli
+363,3,True,Barney Frank,Barney Frank
+364,1,True,United States House Committee on Financial Services,United States House Committee on Financial Services
+365,7,False,notInC,Barney Frank
+366,2,True,The Home Depot,The Home Depot
+367,3,True,Robert Nardelli,Robert Nardelli
+368,2,True,The Home Depot,The Home Depot
+369,2,True,The Home Depot,The Home Depot
+370,9,True,United States,United States
+371,9,True,Canada,Canada
+372,10,True,notInKB,notInKB
+373,9,True,China,China
+374,2,True,The Home Depot,The Home Depot
+375,3,True,Robert Nardelli,Robert Nardelli
+376,1,True,Frank Blake,Frank Blake
+377,2,True,The Home Depot,The Home Depot
+378,1,True,Bernard Marcus,Bernard Marcus
+379,3,True,Robert Nardelli,Robert Nardelli
+380,3,True,Robert Nardelli,Robert Nardelli
+381,8,False,notInC,Frank Blake
+382,7,False,notInC,Bernard Marcus
+383,2,True,The Home Depot,The Home Depot
+384,7,False,notInC,Bernard Marcus
+385,7,False,notInC,Bernard Marcus
+386,3,True,Robert Nardelli,Robert Nardelli
+387,2,True,The Home Depot,The Home Depot
+388,1,True,General Electric,General Electric
+389,3,True,Robert Nardelli,Robert Nardelli
+390,8,False,notInC,Frank Blake
+391,2,True,The Home Depot,The Home Depot
+392,8,False,notInC,Frank Blake
+393,3,True,Robert Nardelli,Robert Nardelli
+394,2,True,The Home Depot,The Home Depot
+395,1,True,New York Stock Exchange,New York Stock Exchange
+396,2,True,The Home Depot,The Home Depot
+397,3,True,Robert Nardelli,Robert Nardelli
+398,1,True,notInKB,notInKB
+399,3,True,Robert Nardelli,Robert Nardelli
+400,8,True,Los Angeles,Los Angeles
+401,2,True,The Home Depot,The Home Depot
+402,3,True,Robert Nardelli,Robert Nardelli
+403,2,True,The Home Depot,The Home Depot
+404,7,False,notInC,Bernard Marcus
+405,3,True,Robert Nardelli,Robert Nardelli
+406,3,True,Robert Nardelli,Robert Nardelli
+407,7,False,notInC,Bernard Marcus
+408,2,True,The Home Depot,The Home Depot
+409,3,True,Robert Nardelli,Robert Nardelli
+410,2,True,The Home Depot,The Home Depot
+411,8,False,notInC,Robert Nardelli
+412,1,True,The Home Depot,The Home Depot
+413,3,True,Robert Nardelli,Robert Nardelli
+414,2,True,The Home Depot,The Home Depot
+415,3,True,Robert Nardelli,Robert Nardelli
+416,8,False,notInC,Frank Blake
+417,3,True,Georgia State University,Georgia State University
+418,8,False,notInC,Robert Nardelli
+419,7,True,Edward Jones (statistician),Edward Jones Investments
+420,9,True,"Birmingham, Alabama","Birmingham, Alabama"
+421,1,True,Alabama,Alabama
+422,6,True,Federal government of the United States,Federal government of the United States
+423,8,True,Alabama,Alabama
+424,2,True,Blue Cross Blue Shield Association,Blue Cross and Blue Shield of Alabama
+425,1,True,Medicaid,Medicaid
+426,9,True,United States,United States
+427,9,True,United States,United States
+428,7,True,"Washington, D.C.","Washington, D.C."
+429,8,True,United States Congress,United States Congress
+430,1,True,notInKB,notInKB
+431,1,True,notInKB,notInKB
+432,8,True,Alabama,Alabama
+433,9,True,notInKB,notInKB
+434,5,True,Blue Cross Blue Shield Association,Blue Cross and Blue Shield of Alabama
+435,2,True,University of Alabama at Birmingham,University of Alabama at Birmingham
+436,8,True,University of Alabama at Birmingham School of Nursing,Nursing school
+437,9,True,Pittsburgh,Pittsburgh
+438,1,True,Highmark,Highmark
+439,7,True,notInKB,notInKB
+440,1,True,Highmark,Highmark
+441,8,True,United States Congress,United States Congress
+442,1,True,notInKB,notInKB
+443,8,True,Alabama,Alabama
+444,1,True,Medicaid,Medicaid
+445,9,True,China,China
+446,8,True,Beijing,Beijing
+447,9,True,China,China
+448,1,True,notInKB,notInKB
+449,1,True,notInKB,notInKB
+450,9,True,China,China
+451,9,True,China,China
+452,4,True,Sichuan,Sichuan
+453,6,True,Chongqing,Chongqing
+454,9,True,China,China
+455,4,True,Sichuan,Sichuan
+456,7,True,Shaanxi,Shaanxi
+457,1,True,Giant panda,Giant panda
+458,7,True,"Washington, D.C.","Washington, D.C."
+459,2,True,George W. Bush,George W. Bush
+460,8,True,Iraq War,Iraq
+461,7,True,George W. Bush,George W. Bush
+462,8,True,Iraq War,Iraq
+463,7,True,Gerald Ford,Gerald Ford
+464,7,True,Richard Nixon,Richard Nixon
+465,9,True,Gerald Ford,Gerald Ford
+466,10,True,Richard Nixon,Richard Nixon
+467,8,True,Jimmy Carter,Jimmy Carter
+468,7,True,"Washington, D.C.","Washington, D.C."
+469,6,True,notInKB,notInKB
+470,7,True,"Washington, D.C.","Washington, D.C."
+471,7,True,"Washington, D.C.","Washington, D.C."
+472,1,True,Evan Bayh,Evan Bayh
+473,8,True,Indiana,Indiana
+474,10,True,notInKB,notInKB
+475,4,True,Evan Bayh,Evan Bayh
+476,7,True,"Washington, D.C.","Washington, D.C."
+477,1,True,Daniel Pfeiffer,Daniel Pfeiffer
+478,4,True,Evan Bayh,Evan Bayh
+479,10,False,notInC,Daniel Pfeiffer
+480,7,True,Vietnam War,Vietnam War
+481,10,False,notInC,Daniel Pfeiffer
+482,1,True,notInKB,notInKB
+483,3,True,"John Kerry presidential campaign, 2004",John Kerry
+484,7,True,George W. Bush,George W. Bush
+485,7,True,President of the United States,Bill Clinton
+486,10,False,notInC,Daniel Pfeiffer
+487,1,True,Chuck Schumer,Chuck Schumer
+488,10,True,notInKB,notInKB
+489,3,True,Chuck Schumer,Chuck Schumer
+490,2,True,Barbara Walters,Barbara Walters
+491,2,False,notInC,Rosie O'Donnell
+492,7,True,Donald Trump,Donald Trump
+493,7,True,New York metropolitan area,New York City
+494,2,True,Barbara Walters,Barbara Walters
+495,2,False,notInC,Rosie O'Donnell
+496,5,True,Donald Trump,Donald Trump
+497,10,False,notInC,Barbara Walters
+498,10,True,notInKB,notInKB
+499,7,True,notInKB,notInKB
+500,7,True,Donald Trump,Donald Trump
+501,8,False,notInC,Rosie O'Donnell
+502,10,False,notInC,Barbara Walters
+503,8,False,notInC,Rosie O'Donnell
+504,10,False,notInC,Barbara Walters
+505,10,False,notInC,Barbara Walters
+506,1,True,Donald Trump,Donald Trump
+507,8,False,notInC,Rosie O'Donnell
+508,7,True,notInKB,notInKB
+509,10,True,notInKB,notInKB
+510,5,True,Donald Trump,Donald Trump
+511,10,False,notInC,Barbara Walters
+512,1,True,notInKB,notInKB
+513,7,True,Donald Trump,Donald Trump
+514,10,False,notInC,Barbara Walters
+515,8,False,notInC,Barbara Walters
+516,8,False,notInC,Barbara Walters
+517,9,False,notInC,Rosie O'Donnell
+518,8,False,notInC,Rosie O'Donnell
+519,7,True,Donald Trump,Donald Trump
+520,10,True,Miss USA,Miss USA
+521,1,True,Tara Conner,Tara Conner
+522,7,True,Donald Trump,Donald Trump
+523,1,True,Miss Universe Organization,Miss Universe Organization
+524,10,True,Miss USA,Miss USA
+525,10,True,Miss Teen USA,Miss Teen USA
+526,7,True,notInKB,notInKB
+527,7,True,Donald Trump,Donald Trump
+528,8,False,notInC,Tara Conner
+529,10,True,United States,United States
+530,7,True,Donald Trump,Donald Trump
+531,8,False,notInC,Rosie O'Donnell
+532,9,True,NBCUniversal,NBC
+533,10,True,notInKB,notInKB
+534,2,True,notInKB,notInKB
+535,8,True,London,London
+536,2,True,notInKB,notInKB
+537,10,True,notInKB,notInKB
+538,3,True,British Airways,British Airways
+539,7,True,British Airways,British Airways
+540,10,True,notInKB,notInKB
+541,7,True,British Airways,British Airways
+542,3,False,notInC,Christmas Holiday
+543,7,True,British Airways,British Airways
+544,10,True,notInKB,notInKB
+545,10,True,notInKB,notInKB
+546,7,True,British Airways,British Airways
+547,2,True,Mars rover,Mars rover
+548,8,True,Los Angeles,Los Angeles
+549,2,True,Mars rover,Mars rover
+550,6,True,Mars,Mars
+551,1,True,Jet Propulsion Laboratory,Jet Propulsion Laboratory
+552,7,True,NASA,NASA
+553,7,True,Earth,Earth
+554,7,True,Earth,Earth
+555,9,True,Mars,Mars
+556,8,True,Spirit (rover),Spirit (rover)
+557,5,True,Mars Exploration Rover,Opportunity (rover)
+558,8,True,Spirit (rover),Spirit (rover)
+559,5,True,Mars Exploration Rover,Opportunity (rover)
+560,9,True,Mars,Mars
+561,8,True,Spirit (rover),Spirit (rover)
+562,5,True,Mars,Martian
+563,5,True,Opportunity (rover),Opportunity (rover)
+564,9,True,Pat Riley,Pat Riley
+565,8,True,Miami,Miami
+566,1,True,Pat Riley,Pat Riley
+567,1,True,Miami Heat,Miami Heat
+568,1,True,Ron Rothstein,Ron Rothstein
+569,9,True,Pat Riley,Pat Riley
+570,8,True,Miami,Miami Heat
+571,1,True,Los Angeles Clippers,Los Angeles Clippers
+572,7,True,Miami Heat,Miami Heat
+573,1,False,notInC,Shaquille O'Neal
+574,1,True,Dwyane Wade,Dwyane Wade
+575,7,True,"Jason Williams (basketball, born 1975)","Jason Williams (basketball, born 1975)"
+576,9,True,Pat Riley,Pat Riley
+577,9,True,Pat Riley,Pat Riley
+578,9,True,Pat Riley,Pat Riley
+579,7,True,Miami Heat,Miami Heat
+580,1,True,Stan Van Gundy,Stan Van Gundy
+581,9,True,Pat Riley,Pat Riley
+582,9,True,Pat Riley,Pat Riley
+583,9,True,Pat Riley,Pat Riley
+584,10,True,Chicago,Chicago
+585,9,True,Pat Riley,Pat Riley
+586,7,True,Miami Heat,Miami Heat
+587,1,True,Alonzo Mourning,Alonzo Mourning
+588,9,True,Pat Riley,Pat Riley
+589,6,True,Alonzo Mourning,Alonzo Mourning
+590,9,True,Ron Rothstein,Ron Rothstein
+591,2,True,Detroit Pistons,Detroit Pistons
+592,9,True,Pat Riley,Pat Riley
+593,9,True,Ron Rothstein,Ron Rothstein
+594,10,True,notInKB,notInKB
+595,4,True,Miami Sol,Miami Sol
+596,10,True,notInKB,notInKB
+597,9,True,Pat Riley,Pat Riley
+598,7,True,Miami Heat,Miami Heat
+599,1,True,Antoine Walker,Antoine Walker
+600,1,True,James Posey,James Posey
+601,9,True,Pat Riley,Pat Riley
+602,4,False,notInC,Shaquille O'Neal
+603,1,True,Dwyane Wade,Dwyane Wade
+604,7,True,Miami Heat,Miami Heat
+605,10,False,notInC,Shaquille O'Neal
+606,8,True,Dwyane Wade,Dwyane Wade
+607,10,True,notInKB,notInKB
+608,8,True,"Phoenix, Arizona","Phoenix, Arizona"
+609,10,False,notInC,Shaquille O'Neal
+610,9,True,Pat Riley,Pat Riley
+611,9,True,Pat Riley,Pat Riley
+612,9,True,Pat Riley,Pat Riley
+613,9,True,Pat Riley,Pat Riley
+614,1,True,Los Angeles Lakers,Los Angeles Lakers
+615,9,True,Larry Brown (basketball),Larry Brown (basketball)
+616,3,True,Detroit Pistons,Detroit Pistons
+617,8,True,Los Angeles Lakers,Los Angeles Lakers
+618,2,True,Phil Jackson,Phil Jackson
+619,9,True,Pat Riley,Pat Riley
+620,7,True,New York metropolitan area,New York City
+621,1,True,New York Stock Exchange,New York Stock Exchange
+622,1,True,notInKB,notInKB
+623,9,True,United States,United States
+624,1,True,The Home Depot,The Home Depot
+625,1,True,"Saks, Inc.","Saks, Inc."
+626,1,True,notInKB,notInKB
+627,1,True,ING Group,ING Group
+628,7,True,New York metropolitan area,New York City
+629,3,True,notInKB,notInKB
+630,5,True,Thomson Reuters,Thomson Reuters
+631,2,True,United States Department of Labor,United States Department of Labor
+632,1,True,Producer price index,Producer price index
+633,8,True,Oklahoma City metropolitan area,Oklahoma City
+634,1,True,Dow Jones Industrial Average,Dow Jones Industrial Average
+635,8,True,Dow Jones Industrial Average,Dow Jones Industrial Average
+636,1,True,S&P 500,S&P 500
+637,1,True,notInKB,notInKB
+638,4,True,New York Stock Exchange,New York Stock Exchange
+639,8,True,Dow Jones Industrial Average,Dow Jones Industrial Average
+640,1,True,New York Mercantile Exchange,New York Mercantile Exchange
+641,1,True,ExxonMobil,ExxonMobil
+642,10,True,U.S. Steel,U.S. Steel
+643,2,True,The Home Depot,The Home Depot
+644,10,True,Saks Fifth Avenue,"Saks, Inc."
+645,10,True,notInKB,notInKB
+646,8,True,PacSun,PacSun
+647,1,False,notInKB,notInKB
+648,10,True,Japan,Japan
+649,1,True,Nikkei 225,Nikkei 225
+650,9,True,United Kingdom,Great Britain
+651,1,True,FTSE 100 Index,FTSE 100 Index
+652,9,True,Germany,Germany
+653,9,True,DAX,DAX
+654,9,True,France,France
+655,1,True,CAC 40,CAC 40

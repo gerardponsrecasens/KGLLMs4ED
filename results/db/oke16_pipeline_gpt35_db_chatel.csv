@@ -1,0 +1,289 @@
+id,candidate_length,in_candidates,response,answer
+0,0,False,notInKB,notInKB
+1,8,True,Higher education in the United States,Student
+2,10,True,President,President
+3,1,True,Eugenio Canfari,Eugenio Canfari
+4,10,False,notInC,Eugenio Canfari
+5,9,False,notInC,Brother
+6,9,True,Author,Author
+7,7,False,notInC,Company
+8,0,False,notInC,The Agnelli family
+9,10,True,Italy,Italy
+10,10,True,2010–11 Juventus F.C. season,Juventus F.C.
+11,9,False,notInC,Country
+12,1,True,Gianni Agnelli,Gianni Agnelli
+13,10,False,notInKB,notInKB
+14,7,False,notInC,Company
+15,7,False,notInC,Company
+16,10,True,Italy,Italy
+17,10,True,Europe,Europe
+18,9,False,notInC,Fiat Automobiles
+19,8,True,United States,United States
+20,0,False,notInKB,notInKB
+21,9,False,notInC,Country
+22,2,True,"Poughkeepsie, New York","Poughkeepsie, New York"
+23,1,True,Marvin Minsky,Marvin Minsky
+24,2,False,notInC,Surgeon
+25,9,True,"John S. McCain, Jr.",Father
+26,9,True,Edith Frank,Mother
+27,8,True,Ali Afshari,Activism
+28,10,True,New York City,New York City
+29,8,False,notInC,Marvin Minsky
+30,1,True,Ethical Culture Fieldston School,Ethical Culture Fieldston School
+31,1,True,The Bronx High School of Science,The Bronx High School of Science
+32,1,True,MIT Computer Science and Artificial Intelligence Laboratory,MIT Computer Science and Artificial Intelligence Laboratory
+33,9,True,Marvin Minsky,Marvin Minsky
+34,2,True,Seymour Papert,Seymour Papert
+35,4,True,Ray Kurzweil,Ray Kurzweil
+36,10,True,New York City,New York City
+37,9,True,Queens,Queens
+38,9,False,notInC,Ray Kurzweil
+39,9,True,Parent,Parent
+40,9,True,Austria,Austria
+41,9,False,notInC,Ray Kurzweil
+42,4,True,Unitarian Universalism,Unitarian Universalism
+43,10,False,notInC,Ray Kurzweil
+44,8,True,High school,High school
+45,9,True,Ray Kurzweil,Ray Kurzweil
+46,2,True,Marvin Minsky,Marvin Minsky
+47,10,False,notInC,Marvin Minsky
+48,10,True,Massachusetts Institute of Technology,Massachusetts Institute of Technology
+49,8,False,notInC,Ray Kurzweil
+50,9,True,Ray Kurzweil,Ray Kurzweil
+51,1,True,Frank Rosenblatt,Frank Rosenblatt
+52,10,True,Cornell University,Cornell University
+53,10,True,Massachusetts Institute of Technology,Massachusetts Institute of Technology
+54,10,True,Massachusetts Institute of Technology,Massachusetts Institute of Technology
+55,2,True,Marvin Minsky,Marvin Minsky
+56,10,True,Massachusetts Institute of Technology,Massachusetts Institute of Technology
+57,8,True,High school,High school
+58,2,True,University of Turin,University of Turin
+59,1,True,Renato Dulbecco,Renato Dulbecco
+60,1,True,notInKB,notInKB
+61,10,True,United States National Academies,National Academy of Sciences
+62,9,False,notInC,Renato Dulbecco
+63,9,True,Royal Society,Royal Society
+64,8,True,Enrico Fermi,Physicist
+65,6,True,Enrico Fermi,Enrico Fermi
+66,8,False,notInC,Salvador Luria
+67,10,False,notInC,Salvador Luria
+68,3,True,Sapienza University of Rome,Sapienza University of Rome
+69,6,True,Salvador Luria,Salvador Luria
+70,2,True,Rockefeller Foundation,Rockefeller Foundation
+71,7,True,Scholarship,Fellow
+72,10,True,Columbia University,Columbia University
+73,9,False,notInC,Salvador Luria
+74,4,True,Max Delbrück,Max Delbrück
+75,10,True,Alfred Hershey,Alfred Hershey
+76,2,True,Cold Spring Harbor Laboratory,Cold Spring Harbor Laboratory
+77,4,True,Max Delbrück,Max Delbrück
+78,7,True,Vanderbilt University,Vanderbilt University
+79,8,False,notInC,Salvador Luria
+80,10,True,Indiana University,Indiana University
+81,6,False,notInC,Salvador Luria
+82,4,False,notInC,Student
+83,2,True,James Watson,James Watson
+84,2,True,Francis Crick,Francis Crick
+85,6,True,Salvador Luria,Salvador Luria
+86,9,True,United States nationality law,Citizenship
+87,8,True,United States,United States
+88,10,True,President of the United States,President
+89,9,True,Leadership,Leadership
+90,9,False,notInC,Country
+91,10,False,notInC,Political division
+92,9,False,notInC,Country
+93,10,True,Republic,Republic
+94,7,True,Spanish transition to democracy,Democracy
+95,10,True,Military dictatorship of Chile (1973–90),Dictatorship
+96,10,True,President,President
+97,9,True,Leadership,Leadership
+98,1,True,Corporation,Corporation
+99,10,True,President of the United States,President
+100,10,True,President of South Africa,President
+101,3,True,Head of state,Head of state
+102,7,True,Republic,Republic
+103,1,True,Presidential system,Presidential system
+104,1,True,notInKB,notInKB
+105,2,True,Parliamentary republic,Parliamentary republic
+106,2,True,Mark Zuckerberg,Mark Zuckerberg
+107,10,False,notInC,Mark Zuckerberg
+108,5,True,Harvard College,Harvard College
+109,2,True,Roommate,Roommate
+110,0,False,notInKB,notInKB
+111,1,True,Eduardo Saverin,Eduardo Saverin
+112,1,True,Andrew McCollum,Andrew McCollum
+113,1,True,Dustin Moskovitz,Dustin Moskovitz
+114,9,True,Chris Hughes (record producer),Chris Hughes
+115,10,False,notInKB,notInKB
+116,10,True,Harvard University,Harvard University
+117,8,True,Student,Student
+118,10,True,College,College
+119,10,True,Boston,Boston
+120,5,True,Ivy League,Ivy League
+121,9,True,Stanford University,Stanford University
+122,2,True,Professor,Professor
+123,10,True,Italy,Italy
+124,9,True,Professor,Professor
+125,8,True,Enrico Fermi,Enrico Fermi
+126,1,True,University of Cagliari,University of Cagliari
+127,8,True,Sardinia,Sardinia
+128,1,True,Giovanni Giorgi,Giovanni Giorgi
+129,4,True,Professor,Professor
+130,1,True,Sapienza University of Rome,Sapienza University of Rome
+131,10,True,Italy,Italy
+132,10,True,BadLLM: Ministry of Education (Italy),Education minister
+133,6,True,Professor,Professor
+134,1,True,Orso Mario Corbino,Orso Mario Corbino
+135,7,False,notInC,University
+136,9,True,Professor,Professor
+137,10,False,notInC,Director (business)
+138,6,True,Institute of Physics,Institute of Physics
+139,6,True,Fascism,Benito Mussolini
+140,9,True,Minister (government),Cabinet (government)
+141,1,True,Laura Fermi,Laura Fermi
+142,10,True,Rome,Rome
+143,9,False,notInC,Laura Fermi
+144,6,True,Enrico Fermi,Enrico Fermi
+145,9,False,notInC,Laura Fermi
+146,9,True,Student,Student
+147,3,True,Sapienza University of Rome,Sapienza University of Rome
+148,9,True,Ronald Reagan,Ronald Reagan
+149,10,True,President of the United States,President
+150,8,True,Actor,Actor
+151,8,False,notInC,Ronald Reagan
+152,9,True,Governor,Governor
+153,9,True,Ronald Reagan,Ronald Reagan
+154,10,False,notInKB,notInKB
+155,10,True,University of California,University of California
+156,9,True,National Guard of the United States,National Guard of the United States
+157,10,True,Italy,Italy
+158,8,True,Chancellor (education),Rector (academia)
+159,9,False,notInC,University
+160,9,False,notInC,University
+161,4,False,notInKB,notInKB
+162,8,True,Chancellor (education),Chancellor (education)
+163,10,True,High school,High school
+164,7,True,Rector (ecclesiastical),Rector (academia)
+165,9,False,notInC,St. Paul's School (New Hampshire)
+166,8,True,New Hampshire,New Hampshire
+167,7,True,Rector (ecclesiastical),Rector (academia)
+168,3,True,Head teacher,Head teacher
+169,8,True,Rector (ecclesiastical),Rector (academia)
+170,4,True,Academic institution,Academic institution
+171,9,False,notInC,University
+172,9,True,Chancellor (education),Chancellor (education)
+173,10,True,President of the United States,Chancellor (education)
+174,8,True,Stockholm,Stockholm
+175,8,True,Sweden,Sweden
+176,7,True,Oslo,Oslo
+177,8,True,Norway,Norway
+178,4,True,Nobel Prize,Laureate
+179,2,True,Nobel Foundation,Nobel Foundation
+180,2,True,Alfred Nobel,Alfred Nobel
+181,8,True,Stockholm,Stockholm
+182,8,True,Sweden,Sweden
+183,10,True,Engineer,Engineer
+184,0,False,notInKB,notInKB
+185,3,True,Rensselaer Polytechnic Institute,Rensselaer Polytechnic Institute
+186,9,True,United States,United States
+187,6,True,James Hendler,James Hendler
+188,9,True,Professor,Professor
+189,10,True,"University of Maryland, College Park","University of Maryland, College Park"
+190,8,False,notInC,James Hendler
+191,10,False,notInC,Director (business)
+192,6,True,James Hendler,James Hendler
+193,10,False,notInC,Director (business)
+194,7,True,Fellow,Fellow
+195,1,True,Association for the Advancement of Artificial Intelligence,Association for the Advancement of Artificial Intelligence
+196,1,True,British Computer Society,British Computer Society
+197,1,True,Institute of Electrical and Electronics Engineers,Institute of Electrical and Electronics Engineers
+198,3,True,American Association for the Advancement of Science,American Association for the Advancement of Science
+199,3,True,Tim Berners-Lee,Tim Berners-Lee
+200,10,False,notInC,Director (business)
+201,3,True,Web standards,World Wide Web Consortium
+202,9,False,notInC,Tim Berners-Lee
+203,10,False,notInKB,notInKB
+204,1,True,World Wide Web Foundation,World Wide Web Foundation
+205,1,True,MIT Computer Science and Artificial Intelligence Laboratory,MIT Computer Science and Artificial Intelligence Laboratory
+206,9,True,London,London
+207,2,True,Emanuel School,Emanuel School
+208,3,True,Tim Berners-Lee,Tim Berners-Lee
+209,1,True,Independent contractor,Independent contractor
+210,8,True,CERN,CERN
+211,10,True,Canton of Geneva,Geneva
+212,8,False,notInC,Tim Berners-Lee
+213,10,True,Gordon Brown,Gordon Brown
+214,8,True,Lord Chancellor,Chancellor
+215,10,False,notInKB,notInKB
+216,5,True,Bank of England,Bank of England
+217,9,True,HM Treasury,Treasury
+218,2,True,Financial Services Authority,Financial Services Authority
+219,10,True,Gordon Brown,Gordon Brown
+220,8,False,notInC,Gordon Brown
+221,10,False,notInC,Gordon Brown
+222,1,True,Kirkcaldy High School,Kirkcaldy High School
+223,7,True,Rector of the University of Edinburgh,Rector (academia)
+224,9,True,Scotland,Scotland
+225,10,True,Gordon Brown,Gordon Brown
+226,6,True,Lecturer,Lecturer
+227,1,True,Glasgow Caledonian University,Glasgow Caledonian University
+228,9,False,notInC,Gordon Brown
+229,9,True,Tutor,Tutor
+230,8,True,Open University,Open University
+231,10,True,Belfast,Belfast
+232,5,True,University of Glasgow,University of Glasgow
+233,8,True,University of Edinburgh,University of Edinburgh
+234,10,False,notInC,Joseph Black
+235,1,True,Regius Professor,Regius Professor
+236,5,True,University of Glasgow Medical School,University of Glasgow
+237,10,False,notInC,Joseph Black
+238,9,True,Mitra,Friendship
+239,9,True,Teacher,Teacher
+240,10,True,Glasgow,Glasgow
+241,10,False,notInC,Joseph Black
+242,6,True,William Cullen,William Cullen
+243,6,True,Professor,Professor
+244,8,True,University of Edinburgh,University of Edinburgh
+245,1,True,"Henry Home, Lord Kames","Henry Home, Lord Kames"
+246,6,True,Professor,Professor
+247,8,True,University of Edinburgh Medical School,University of Edinburgh
+248,10,True,Edinburgh,Edinburgh
+249,9,True,"John S. McCain, Jr.",Father
+250,5,True,Judge,Judge
+251,1,False,notInC,"Robert Cullen, Lord Cullen"
+252,9,True,Medicine,Physician
+253,1,True,Henry Cullen,Henry Cullen
+254,9,True,Robert Cullen,Son
+255,10,False,notInC,"Robert Cullen, Lord Cullen"
+256,5,True,Judge,Judge
+257,8,True,Mathematician,Mathematician
+258,10,True,James Clerk Maxwell,James Clerk Maxwell
+259,9,True,Scotland,Scotland
+260,9,True,University of Cambridge,University of Cambridge
+261,9,False,notInC,James Clerk Maxwell
+262,2,True,"Peterhouse, Cambridge","Peterhouse, Cambridge"
+263,10,False,notInC,James Clerk Maxwell
+264,9,True,"Trinity College, Cambridge","Trinity College, Cambridge"
+265,8,False,notInC,James Clerk Maxwell
+266,7,True,Scholarship,Fellow
+267,10,True,James Clerk Maxwell,James Clerk Maxwell
+268,10,True,The Reverend,The Reverend
+269,4,False,notInC,Marischal College
+270,1,True,notInKB,notInKB
+271,10,True,University of Cambridge,University of Cambridge
+272,10,True,Michael Faraday,Michael Faraday
+273,3,True,Newington Butts,Newington Butts
+274,3,True,London Borough of Southwark,London Borough of Southwark
+275,6,True,Surrey,Surrey
+276,8,True,University of Edinburgh,University of Edinburgh
+277,7,False,notInC,University
+278,3,True,Age of Enlightenment,Scottish Enlightenment
+279,5,True,University of Glasgow,University of Glasgow
+280,1,True,Pope Nicholas V,Pope Nicholas V
+281,10,True,Bologna,Bologna
+282,10,True,Florence,Florence
+283,10,True,Bologna,Bologna
+284,0,False,notInKB,notInKB
+285,1,False,notInC,Petronius of Bologna
+286,10,True,Bishop,Bishop
+287,10,True,Bologna,Bologna

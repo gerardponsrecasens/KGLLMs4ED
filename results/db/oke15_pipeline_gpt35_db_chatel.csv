@@ -1,0 +1,536 @@
+id,candidate_length,in_candidates,response,answer
+0,2,True,Wilhelm Röntgen,Wilhelm Röntgen
+1,1,True,Utrecht University,Utrecht University
+2,9,True,Student,Student
+3,5,True,Wilhelm Röntgen,Wilhelm Röntgen
+4,3,True,"Magdalene College, Cambridge","Magdalene College, Cambridge"
+5,10,True,notInKB,notInKB
+6,2,True,Cavendish Laboratory,Cavendish Laboratory
+7,8,True,Physicist,Physicist
+8,6,True,Professor,Professor
+9,10,True,Ernest Rutherford,Ernest Rutherford
+10,10,True,Fellow,Fellow
+11,9,True,"King's College, Cambridge","King's College, Cambridge"
+12,10,True,University of Cambridge,Cambridge
+13,10,False,notInKB,notInKB
+14,2,True,Royal Aircraft Establishment,Royal Aircraft Establishment
+15,10,True,"Farnborough, Hampshire","Farnborough, Hampshire"
+16,1,True,Hans Geiger,Hans Geiger
+17,10,False,notInC,Director (business)
+18,7,True,Walther Bothe,Walther Bothe
+19,8,False,notInC,Research assistant
+20,10,True,Hans Geiger,Hans Geiger
+21,8,False,notInC,Walther Bothe
+22,10,True,Hans Geiger,Hans Geiger
+23,10,False,notInC,Director (business)
+24,9,True,French Third Republic,France
+25,9,True,Nazi Germany,Germany
+26,1,True,Walther Bothe,Walther Bothe
+27,1,True,Frédéric Joliot-Curie,Frédéric Joliot-Curie
+28,10,True,Paris,Paris
+29,1,True,Albert Lutuli,Albert Lutuli
+30,8,True,Principal (academia),Principal (academia)
+31,9,True,Teacher,Teacher
+32,8,True,Primary school,Primary school
+33,10,True,"Newcastle, KwaZulu-Natal","Newcastle, KwaZulu-Natal"
+34,10,True,Diocese of Natal,KwaZulu-Natal
+35,1,True,Albert Lutuli,Albert Lutuli
+36,7,True,United Methodist Church,United Methodist Church
+37,9,True,Preacher,Preacher
+38,1,True,Albert Lutuli,Albert Lutuli
+39,4,True,African National Congress,African National Congress
+40,8,False,notInC,Albert Lutuli
+41,7,True,KwaZulu-Natal,KwaZulu-Natal Division
+42,4,True,African National Congress,African National Congress
+43,6,False,notInC,KwaZulu-Natal Division
+44,8,True,Nelson Mandela,Nelson Mandela
+45,1,True,Umkhonto we Sizwe,Umkhonto we Sizwe
+46,1,True,Albert Lutuli,Albert Lutuli
+47,8,True,United States,United States
+48,5,True,Robert F. Kennedy,Robert F. Kennedy
+49,8,True,South Africa,South Africa
+50,1,True,Giulio Natta,Giulio Natta
+51,8,True,Imperia,Imperia
+52,10,True,Italy,Italy
+53,9,False,notInC,Giulio Natta
+54,10,False,notInC,Giulio Natta
+55,1,True,Polytechnic University of Milan,Polytechnic University of Milan
+56,10,True,Milan,Milan
+57,6,True,Giulio Natta,Giulio Natta
+58,2,True,Karl Ziegler,Karl Ziegler
+59,2,True,Professor,Professor
+60,10,False,notInC,Director (business)
+61,1,True,Polytechnic University of Turin,Polytechnic University of Turin
+62,6,True,Maria Goeppert-Mayer,Maria Goeppert-Mayer
+63,1,True,Joseph Edward Mayer,Joseph Edward Mayer
+64,8,True,United States,United States
+65,7,True,Maria Goeppert-Mayer,Maria Goeppert-Mayer
+66,5,True,Professor,Professor
+67,7,True,Johns Hopkins University,Johns Hopkins University
+68,7,True,Johns Hopkins University,Johns Hopkins University
+69,6,True,Maria Goeppert-Mayer,Maria Goeppert-Mayer
+70,5,True,Faculty (academic staff),Faculty (academic staff)
+71,9,False,notInC,Maria Goeppert-Mayer
+72,8,False,notInC,Research assistant
+73,5,True,Professor,Professor
+74,10,True,University of Chicago,University of Chicago
+75,8,True,Physicist,Physicist
+76,1,True,Argonne National Laboratory,Argonne National Laboratory
+77,1,True,J. Hans D. Jensen,J. Hans D. Jensen
+78,1,True,Eugene Wigner,Eugene Wigner
+79,6,True,Maria Goeppert-Mayer,Maria Goeppert-Mayer
+80,8,False,notInC,Maria Goeppert-Mayer
+81,1,True,Sarah Lawrence College,Sarah Lawrence College
+82,1,True,Maria Goeppert-Mayer,Maria Goeppert-Mayer
+83,2,True,Professors in the United States,Professor
+84,10,True,"University of California, San Diego","University of California, San Diego"
+85,10,True,San Diego,San Diego
+86,9,True,Poet,Poet
+87,10,True,Paris,Paris
+88,8,True,Officer (armed forces),Officer
+89,8,True,French Navy,French Navy
+90,2,True,"Martin Luther King, Jr.","Martin Luther King, Jr."
+91,9,True,Boston University,Boston University
+92,10,False,notInC,"Martin Luther King, Jr."
+93,9,True,God,God
+94,2,True,Paul Tillich,Paul Tillich
+95,1,True,Henry Nelson Wieman,Henry Nelson Wieman
+96,2,True,Minister (Christianity),Minister (Christianity)
+97,9,True,Jesus,Jesus
+98,10,True,Local church,Church (building)
+99,9,True,Samuel Beckett,Samuel Beckett
+100,10,True,"Trinity College, Dublin","Trinity College, Dublin"
+101,10,True,Dublin,Dublin
+102,9,True,Samuel Beckett,Samuel Beckett
+103,4,True,Campbell College,Campbell College
+104,10,True,Belfast,Belfast
+105,5,False,notInC,Lecturer
+106,1,True,École Normale Supérieure,École Normale Supérieure
+107,10,True,Paris,Paris
+108,9,True,"University of California, Berkeley","University of California, Berkeley"
+109,9,True,Samuel Beckett,Samuel Beckett
+110,10,True,"Trinity College, Dublin","Trinity College, Dublin"
+111,6,True,Lecturer,Lecturer
+112,8,False,notInC,Samuel Beckett
+113,9,True,Thomas Pynchon,Novel
+114,9,True,London,London
+115,10,True,France,French people
+116,9,True,Author,Author
+117,3,True,Marcel Proust,Marcel Proust
+118,8,True,Pablo Neruda,Pablo Neruda
+119,10,False,notInC,Pablo Neruda
+120,9,True,Czech Republic,Czechs
+121,9,True,Czech poet,Poet
+122,1,True,Jan Neruda,Jan Neruda
+123,9,True,Poet,Poet
+124,8,False,notInC,Pablo Neruda
+125,10,False,notInC,Pablo Neruda
+126,8,True,Pablo Neruda,Pablo Neruda
+127,8,True,notInKB,notInKB
+128,2,True,Communist Party of Chile,Communist Party of Chile
+129,10,True,President of Chile,President
+130,3,True,Gabriel González Videla,Gabriel González Videla
+131,7,True,Chile,Chile
+132,8,True,Pablo Neruda,Pablo Neruda
+133,10,False,notInC,Pablo Neruda
+134,9,True,Valparaíso,Valparaíso
+135,8,True,Pablo Neruda,Pablo Neruda
+136,1,True,Maihue Lake,Maihue Lake
+137,9,True,Argentina,Argentina
+138,8,True,Salvatore Quasimodo,Salvatore Quasimodo
+139,7,True,Modica,Modica
+140,10,True,Sicily,Sicily
+141,10,False,notInC,Salvatore Quasimodo
+142,10,True,Messina,Messina
+143,10,False,notInC,Salvatore Quasimodo
+144,8,True,Salvatore Quasimodo,Salvatore Quasimodo
+145,8,True,Amalfi,Amalfi
+146,8,False,notInC,Salvatore Quasimodo
+147,9,True,Walt Whitman,Poet
+148,10,True,Naples,Naples
+149,4,True,T. S. Eliot,T. S. Eliot
+150,10,False,notInC,Director (business)
+151,1,True,Frank Aydelotte,Frank Aydelotte
+152,10,True,T. S. Eliot,T. S. Eliot
+153,7,True,Eliot family (America),Boston Brahmin
+154,10,True,United Kingdom,England
+155,10,True,New England,New England
+156,10,True,T. S. Eliot,T. S. Eliot
+157,1,True,Milton Academy,Milton Academy
+158,9,True,Massachusetts,Massachusetts
+159,8,False,notInC,T. S. Eliot
+160,1,True,Scofield Thayer,Scofield Thayer
+161,8,False,notInC,Research assistant
+162,10,True,Harvard University,Harvard University
+163,10,True,T. S. Eliot,T. S. Eliot
+164,10,True,Paris,Paris
+165,8,False,notInC,T. S. Eliot
+166,7,True,University of Paris,University of Paris
+167,10,True,T. S. Eliot,T. S. Eliot
+168,2,True,Henri Bergson,Henri Bergson
+169,1,True,Alain-Fournier,Alain-Fournier
+170,1,True,Marguerite Vogt,Marguerite Vogt
+171,1,True,Renato Dulbecco,Renato Dulbecco
+172,1,True,Salk Institute for Biological Studies,Salk Institute for Biological Studies
+173,10,True,World Cancer Research Fund UK,Cancer Research UK
+174,9,True,London,London
+175,1,True,Renato Dulbecco,Renato Dulbecco
+176,7,True,Catanzaro,Catanzaro
+177,10,True,Magna Graecia,Southern Italy
+178,10,False,notInC,Renato Dulbecco
+179,8,True,Liguria,Liguria
+180,8,True,Imperia,Imperia
+181,1,True,Renato Dulbecco,Renato Dulbecco
+182,2,True,University of Turin,University of Turin
+183,4,True,Vladimir Prelog,Vladimir Prelog
+184,10,True,Sarajevo,Sarajevo
+185,10,True,Zagreb,Zagreb
+186,8,False,notInC,Vladimir Prelog
+187,4,True,Vladimir Prelog,Vladimir Prelog
+188,10,True,Zagreb,Zagreb
+189,10,False,notInC,Vladimir Prelog
+190,7,True,Osijek,Osijek
+191,4,True,Vladimir Prelog,Vladimir Prelog
+192,9,True,Germany,Germany
+193,1,True,Richard Kuhn,Richard Kuhn
+194,6,True,Lecturer,Lecturer
+195,1,True,Leopold Ružička,Leopold Ružička
+196,4,True,Vladimir Prelog,Vladimir Prelog
+197,10,False,notInC,Leopold Ružička
+198,10,False,notInC,Leopold Ružička
+199,9,True,Germany,Germany
+200,1,True,Nicolaas Bloembergen,Nicolaas Bloembergen
+201,10,False,notInC,Nicolaas Bloembergen
+202,1,True,Leiden University,Leiden University
+203,1,True,Cornelis Jacobus Gorter,Cornelis Jacobus Gorter
+204,10,False,notInC,Nicolaas Bloembergen
+205,10,True,Harvard University,Harvard University
+206,1,True,Nicolaas Bloembergen,Nicolaas Bloembergen
+207,2,True,Research assistant,Research assistant
+208,1,True,Edward Mills Purcell,Edward Mills Purcell
+209,1,False,notInKB,notInKB
+210,5,True,James Tobin,James Tobin
+211,10,True,Yale University,Yale University
+212,8,False,notInC,James Tobin
+213,10,False,notInC,James Tobin
+214,5,True,James Tobin,James Tobin
+215,1,True,Cowles Foundation,Cowles Foundation
+216,9,True,Yale University,Yale University
+217,10,True,Chancellor (education),President
+218,5,True,James Tobin,James Tobin
+219,3,True,Massachusetts Institute of Technology,Massachusetts Institute of Technology
+220,9,True,student,Student
+221,2,True,Paul Samuelson,Paul Samuelson
+222,4,True,William Golding,William Golding
+223,5,True,Newquay,Newquay
+224,10,True,Cornwall,Cornwall
+225,8,False,notInC,William Golding
+226,9,False,notInC,William Golding
+227,10,False,notInC,"Marlborough, Wiltshire"
+228,8,True,Wiltshire,Wiltshire
+229,10,False,notInC,William Golding
+230,8,False,notInC,Master of Science
+231,2,True,Marlborough Royal Free Grammar School,Marlborough Royal Free Grammar School
+232,4,True,William Golding,William Golding
+233,2,True,notInKB,notInKB
+234,9,True,Queen regnant,Queen regnant
+235,8,True,Elizabeth II,Elizabeth II
+236,1,True,Carlo Rubbia,Carlo Rubbia
+237,1,True,University of Pisa,University of Pisa
+238,1,True,Scuola Normale Superiore di Pisa,Scuola Normale Superiore di Pisa
+239,10,True,Pisa,Pisa
+240,1,True,Carlo Rubbia,Carlo Rubbia
+241,1,True,Carlo Rubbia,Carlo Rubbia
+242,8,True,United States,United States
+243,8,False,notInC,Carlo Rubbia
+244,10,True,Columbia University,Columbia University
+245,1,True,Carlo Rubbia,Carlo Rubbia
+246,1,True,Senate of the Republic (Italy),Senate of the Republic (Italy)
+247,1,True,Senator for life,Senator for life
+248,10,True,BadLLM: President of Italy,President
+249,1,True,Giorgio Napolitano,Giorgio Napolitano
+250,1,True,Rita Levi-Montalcini,Rita Levi-Montalcini
+251,1,True,Rita Levi-Montalcini,Rita Levi-Montalcini
+252,10,True,Turin,Turin
+253,1,True,Rita Levi-Montalcini,Rita Levi-Montalcini
+254,9,False,notInC,Rita Levi-Montalcini
+255,8,True,Mathematician,Mathematician
+256,1,True,Giuseppe Levi,Giuseppe Levi
+257,8,False,notInC,Research assistant
+258,6,True,Benito Mussolini,Benito Mussolini
+259,1,True,Rita Levi-Montalcini,Rita Levi-Montalcini
+260,8,False,notInC,Rita Levi-Montalcini
+261,8,False,notInC,Research assistant
+262,1,True,Rita Levi-Montalcini,Rita Levi-Montalcini
+263,8,True,Washington University in St. Louis,Washington University in St. Louis
+264,10,True,St. Louis,St. Louis
+265,6,True,Professor,Professor
+266,1,True,Viktor Hamburger,Viktor Hamburger
+267,9,False,notInC,Rita Levi-Montalcini
+268,8,False,notInC,Rita Levi-Montalcini
+269,10,False,notInC,Viktor Hamburger
+270,8,False,notInC,Rita Levi-Montalcini
+271,1,True,Research associate,Research associate
+272,1,True,Senator for life,Senator for life
+273,10,True,Italy,Italy
+274,10,True,BadLLM: President of Italy,President
+275,1,True,Carlo Azeglio Ciampi,Carlo Azeglio Ciampi
+276,2,True,Elie Wiesel,Elie Wiesel
+277,1,True,Sighetu Marmației,Sighetu Marmației
+278,9,True,Transylvania,Transylvania
+279,2,True,Maramureș,Maramureș
+280,9,True,Romania,Romania
+281,3,True,Carpathian Mountains,Carpathian Mountains
+282,6,False,notInC,Elie Wiesel
+283,9,True,Romania,Romania
+284,1,True,Sighetu Marmației,Sighetu Marmației
+285,7,True,Kingdom of Hungary,Hungary
+286,4,True,Elie Wiesel,Elie Wiesel
+287,10,False,notInC,Elie Wiesel
+288,1,True,Sighetu Marmației,Sighetu Marmației
+289,4,True,Elie Wiesel,Elie Wiesel
+290,10,False,notInC,Elie Wiesel
+291,4,True,Elie Wiesel,Elie Wiesel
+292,3,False,notInC,Kapellmeister
+293,10,True,War correspondent,Journalist
+294,6,True,Kadima,Kadima
+295,10,True,BadLLM: President of Israel,President
+296,10,True,BadLLM: Prime Minister of Israel,Prime minister
+297,2,True,Ehud Olmert,Ehud Olmert
+298,4,True,Elie Wiesel,Elie Wiesel
+299,4,True,Elie Wiesel,Elie Wiesel
+300,4,True,Elie Wiesel,Elie Wiesel
+301,9,True,Catholic Church,Holy See
+302,10,True,Bishop (Catholic Church),Bishop
+303,4,True,Richard Williamson (bishop),Richard Williamson (bishop)
+304,10,False,notInKB,notInKB
+305,2,True,notInKB,notInKB
+306,3,True,Susumu Tonegawa,Susumu Tonegawa
+307,8,True,Nagoya,Nagoya
+308,10,True,Japan,Japan
+309,1,True,Hibiya High School,Hibiya High School
+310,10,True,Tokyo,Tokyo
+311,10,True,Nelson Mandela,Nelson Mandela
+312,1,True,Robben Island,Robben Island
+313,1,True,Pollsmoor Prison,Pollsmoor Prison
+314,1,False,notInC,Susumu Tonegawa
+315,1,True,Mvezo,Mvezo
+316,2,True,Mthatha,Mthatha
+317,7,True,Cape Province,Cape Province
+318,2,True,ETH Zurich,ETH Zurich
+319,10,True,Zürich,Zürich
+320,8,True,French people,French people
+321,10,True,Paris,Paris
+322,9,True,France,France
+323,9,True,Professor,Professor
+324,1,True,Collège de France,Collège de France
+325,10,False,notInC,Director (business)
+326,1,True,ESPCI ParisTech,ESPCI ParisTech
+327,10,True,Paris,Paris
+328,9,True,Russell Alan Hulse,Russell Alan Hulse
+329,10,True,New York City,New York City
+330,1,True,The Bronx High School of Science,The Bronx High School of Science
+331,2,True,Cooper Union,Cooper Union
+332,3,True,University of Massachusetts Amherst,University of Massachusetts Amherst
+333,8,True,Michael Smith (chemist),Michael Smith (chemist)
+334,10,True,United Kingdom,England
+335,1,True,Blackpool,Blackpool
+336,8,True,Canada,Canada
+337,10,True,Canada,Canadians
+338,9,True,Canadian nationality law,Citizenship
+339,10,True,Vancouver Island,Vancouver Island
+340,1,True,Mario Capecchi,Mario Capecchi
+341,10,True,Verona,Verona
+342,9,True,United States Air Force,Airman
+343,6,False,notInC,Americans
+344,6,True,Lucy Ramberg,Daughter
+345,10,True,Germany,Germans
+346,6,True,Archaeology,Archaeology
+347,7,True,Ghana,Ghana
+348,10,True,RCA,RCA
+349,8,True,United States,United States
+350,1,True,Mario Capecchi,Mario Capecchi
+351,7,True,Fellow,Fellow
+352,1,True,Harvard Society of Fellows,Harvard Society of Fellows
+353,10,True,Harvard University,Harvard University
+354,4,True,Mario Capecchi,Mario Capecchi
+355,7,True,University of Utah,University of Utah
+356,3,True,Dario Fo,Dario Fo
+358,9,True,Lombardy,Lombardy
+359,2,True,Province of Varese,Province of Varese
+360,1,True,Lake Maggiore,Lake Maggiore
+361,6,False,notInC,Dario Fo
+362,8,False,notInC,Writer
+363,2,True,Dario Fo,Dario Fo
+364,10,True,Milan,Milan
+365,2,True,Brera Academy,Brera Academy
+366,8,False,notInC,Dario Fo
+367,10,True,Benito Mussolini,Benito Mussolini
+368,1,True,Italian Social Republic,Italian Social Republic
+369,2,True,University of Bologna,University of Bologna
+370,6,True,Professor,Professor
+371,4,True,notInKB,notInKB
+372,10,True,Harlequin (comics),Harlequin
+373,1,True,Commedia dell'arte,Commedia dell'arte
+374,1,True,Harry Kroto,Harry Kroto
+375,1,True,Bolton School,Bolton School
+376,1,True,University of Sheffield,University of Sheffield
+377,9,False,notInC,University of Sheffield
+378,1,True,Harry Kroto,Harry Kroto
+379,9,True,Helmuth Nyborg,Research
+380,10,True,Harvard University,Harvard University
+381,3,True,Susumu Tonegawa,Susumu Tonegawa
+382,10,False,notInC,Susumu Tonegawa
+383,10,True,"University of California, San Diego","University of California, San Diego"
+384,10,True,San Diego,San Diego
+385,8,False,notInC,Susumu Tonegawa
+386,10,True,Japan,Japan
+387,1,True,Kyoto University,Kyoto University
+388,1,True,Salk Institute for Biological Studies,Salk Institute for Biological Studies
+389,10,True,San Diego,San Diego
+390,1,True,Renato Dulbecco,Renato Dulbecco
+391,1,True,Basel Institute for Immunology,Basel Institute for Immunology
+392,10,True,Basel,Basel
+393,10,True,Nelson Mandela,Nelson Mandela
+394,10,True,President of South Africa,President
+395,1,True,F. W. de Klerk,F. W. de Klerk
+396,8,False,notInC,Nelson Mandela
+397,9,True,African National Congress,African National Congress
+398,8,True,South Africa,South Africa
+399,10,True,President of the United States,President
+400,3,True,Professors in the United States,Professor
+401,2,True,Harvard Medical School,Harvard Medical School
+402,2,True,Professor,Professor
+403,10,True,Paris,Paris
+404,10,True,Italians,Italians
+405,10,True,Sephardi Jews,Jews
+406,2,True,Sephardi Jews,Sephardi Jews
+407,1,True,Thessaloniki,Thessaloniki
+408,10,True,Actor,Actor
+409,1,True,Shuji Nakamura,Shuji Nakamura
+410,1,True,University of Tokushima,University of Tokushima
+411,8,False,notInC,Shuji Nakamura
+412,1,True,Nichia,Nichia
+413,5,True,"Tokushima, Tokushima","Tokushima, Tokushima"
+414,3,True,Scout (Scouting),Scout (Scouting)
+415,2,True,Boy Scouts of America,Boy Scouts of America
+416,2,True,Eagle Scout (Boy Scouts of America),Eagle Scout (Boy Scouts of America)
+417,8,True,Washington University in St. Louis,Washington University in St. Louis
+418,10,True,St. Louis,St. Louis
+419,7,True,notInKB,notInKB
+420,7,True,Fellow,Fellow
+421,10,True,Alice Munro,Alice Munro
+422,8,False,notInC,Alice Munro
+423,3,True,University of Western Ontario,University of Western Ontario
+424,9,True,Shinya Yamanaka,Shinya Yamanaka
+425,8,True,Residency (medicine),Residency (medicine)
+426,6,False,notInC,Shinya Yamanaka
+427,10,False,notInC,Shinya Yamanaka
+428,8,False,notInC,Shinya Yamanaka
+429,8,True,United States,United States
+430,1,True,Madison Business College,Madison Business College
+431,7,True,"Madison, Wisconsin","Madison, Wisconsin"
+432,3,True,Akira Suzuki (chemist),Akira Suzuki (chemist)
+433,6,True,Research associate,Postdoctoral research
+434,1,True,Herbert C. Brown,Herbert C. Brown
+435,9,True,Purdue University,Purdue University
+436,1,True,Hokkaido University,Hokkaido University
+437,8,False,notInC,Akira Suzuki (chemist)
+438,9,True,Professor,Professor
+439,9,True,Professor,Professor
+440,8,True,University of Manchester,University of Manchester
+441,10,False,notInC,Director (business)
+442,1,True,Manchester Centre for Mesoscience and Nanotechnology,Manchester Centre for Mesoscience and Nanotechnology
+443,1,True,Elizabeth Blackburn,Elizabeth Blackburn
+444,8,False,notInC,Elizabeth Blackburn
+445,9,False,notInC,Elizabeth Blackburn
+446,9,True,United States,United States
+447,1,True,National Institutes of Health,National Institutes of Health
+448,2,True,Pasteur Institute,Pasteur Institute
+449,1,True,Martti Ahtisaari,Martti Ahtisaari
+450,10,True,Oulu,Oulu
+451,10,False,notInC,Martti Ahtisaari
+452,8,False,notInC,Martti Ahtisaari
+453,10,False,notInC,Martti Ahtisaari
+454,9,False,notInC,Martti Ahtisaari
+455,10,True,YMCA,YMCA
+456,10,True,Doris Lessing,Doris Lessing
+457,7,False,notInC,Doris Lessing
+458,10,True,Doris Lessing,Doris Lessing
+459,7,True,Michael Joseph (publisher),Michael Joseph (publisher)
+460,9,True,United States,United States
+461,2,True,Alfred A. Knopf,Alfred A. Knopf
+462,1,True,Albert Fert,Albert Fert
+463,1,True,École Normale Supérieure,École Normale Supérieure
+464,10,True,Paris,Paris
+465,9,False,notInC,Albert Fert
+466,10,False,notInC,Albert Fert
+467,10,False,notInC,Albert Fert
+468,6,True,University of Paris,University of Paris
+469,1,True,Aaron Ciechanover,Aaron Ciechanover
+470,10,False,notInKB,notInKB
+471,1,True,Israel Academy of Sciences and Humanities,Israel Academy of Sciences and Humanities
+472,1,True,Pontifical Academy of Sciences,Pontifical Academy of Sciences
+473,1,True,National Academy of Sciences,National Academy of Sciences
+474,2,True,David Gross,David Gross
+475,10,False,notInC,David Gross
+476,1,True,Frank Wilczek,Frank Wilczek
+477,8,True,Princeton University,Princeton University
+478,1,True,Auschwitz concentration camp,Auschwitz concentration camp
+479,7,True,Buchenwald concentration camp,Buchenwald concentration camp
+480,1,True,Ahmed Zewail,Ahmed Zewail
+481,10,True,President of the United States,President
+482,4,True,Barack Obama,Barack Obama
+483,1,True,United States President's Council of Advisors on Science and Technology,United States President's Council of Advisors on Science and Technology
+484,2,True,"Trinity College, Cambridge","Trinity College, Cambridge"
+485,10,True,President of the Cambridge Majlis,President
+486,4,True,Toni Morrison,Toni Morrison
+487,3,True,Howard University,Howard University
+488,9,False,notInC,Toni Morrison
+489,10,True,Cornell University,Cornell University
+490,10,False,notInC,Kary Mullis
+491,3,True,Kary Mullis,Kary Mullis
+492,3,True,Biochemist,Biochemist
+493,10,True,"Kansas City, Missouri",Kansas City metropolitan area
+494,8,True,Erwin Neher,Erwin Neher
+495,1,True,Bert Sakmann,Bert Sakmann
+496,1,True,Nadine Gordimer,Nadine Gordimer
+497,1,True,University of the Witwatersrand,University of the Witwatersrand
+498,9,False,notInC,Nadine Gordimer
+499,10,True,Research fellow,Fellow
+500,5,True,Richard Adolf Zsigmondy,Richard Adolf Zsigmondy
+501,9,True,Vienna,Vienna
+502,10,True,Austrian Empire,Austrian Empire
+503,9,True,Hungarians,Hungarians
+504,9,True,Poet,Poet
+505,1,True,Martonvásár,Martonvásár
+506,9,False,notInC,Scientist
+507,9,True,Bratislava,Bratislava
+508,5,True,Richard Adolf Zsigmondy,Richard Adolf Zsigmondy
+509,1,True,Schott AG,Schott AG
+510,9,True,Jena,Jena
+511,6,True,Lecturer,Lecturer
+512,10,False,notInC,Richard Adolf Zsigmondy
+513,7,True,Carl Zeiss AG,Carl Zeiss AG
+514,8,False,notInC,Richard Adolf Zsigmondy
+515,10,True,Wolfgang Pauli,Wolfgang Pauli
+516,9,True,Vienna,Vienna
+517,9,True,Chemist,Chemist
+518,6,False,notInC,Wolfgang Pauli
+519,10,False,notInC,Wolfgang Pauli
+520,8,True,Physicist,Physicist
+521,1,True,Ernst Mach,Ernst Mach
+522,10,True,Wolfgang Pauli,Wolfgang Pauli
+523,1,True,University of Göttingen,University of Göttingen
+524,8,False,notInC,Research assistant
+525,2,True,Max Born,Max Born
+526,9,True,Copenhagen,Copenhagen
+527,1,True,Niels Bohr Institute,Niels Bohr Institute
+528,8,False,notInC,Wolfgang Pauli
+529,6,True,Lecturer,Lecturer
+530,1,True,University of Hamburg,University of Hamburg
+531,1,True,Linda B. Buck,Linda B. Buck
+532,2,True,Professors in the United States,Professor
+533,10,True,Harvard University,Harvard University
+534,9,False,notInC,Linda B. Buck
+535,8,False,notInC,Linda B. Buck
